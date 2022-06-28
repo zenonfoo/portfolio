@@ -1,0 +1,2774 @@
+,sector,industry,ticker
+0,Consumer Cyclical,Apparel Manufacturing,518
+1,Consumer Cyclical,Apparel Manufacturing,8107
+2,Consumer Cyclical,Department Stores,831
+3,Consumer Cyclical,"Furnishings, Fixtures & Appliances",837
+4,Financial Services,Capital Markets,8221
+5,Industrials,Specialty Business Services,1540
+6,Consumer Cyclical,"Furnishings, Fixtures & Appliances",6822
+7,Industrials,Electrical Equipment & Parts,3393
+8,Financial Services,Capital Markets,1428
+9,Consumer Cyclical,Personal Services,1161
+10,Consumer Cyclical,Apparel Manufacturing,540
+11,Consumer Cyclical,Auto Parts,6162
+12,Real Estate,Real Estate—Development,106
+13,Financial Services,Capital Markets,8098
+14,Technology,Information Technology Services,1985
+15,Real Estate,Real Estate—Development,2868
+16,Consumer Cyclical,Apparel Retail,483
+17,Industrials,Conglomerates,2182
+18,Real Estate,Real Estate—Diversified,1240
+19,Energy,Thermal Coal,1277
+20,Real Estate,Real Estate—Development,2777
+21,Utilities,Utilities—Regulated Water,6839
+22,Real Estate,Real Estate—Development,1628
+23,Real Estate,Real Estate—Diversified,978
+24,Industrials,Infrastructure Operations,576
+25,Energy,Thermal Coal,3668
+26,Consumer Cyclical,Specialty Retail,6033
+27,Industrials,Marine Shipping,560
+28,Financial Services,Credit Services,8452
+29,Real Estate,Real Estate—Development,832
+30,Industrials,Engineering & Construction,1447
+31,,,34
+32,,,43
+33,Consumer Cyclical,Apparel Manufacturing,1346
+34,Consumer Cyclical,Textile Manufacturing,420
+35,Healthcare,Drug Manufacturers—Specialty & Generic,1558
+36,Technology,Electronic Components,9918
+37,Consumer Cyclical,Apparel Manufacturing,3818
+38,Technology,Communication Equipment,303
+39,Energy,Oil & Gas Integrated,386
+40,Real Estate,Real Estate—Development,588
+41,Industrials,Marine Shipping,6119
+42,Basic Materials,Specialty Chemicals,1986
+43,Industrials,Farm & Heavy Construction Machinery,1122
+44,Real Estate,Real Estate—Development,1862
+45,,Type,41
+46,Consumer Cyclical,Residential Construction,1098
+47,Real Estate,Real Estate—Development,337
+48,Real Estate,Real Estate Services,1730
+49,Consumer Cyclical,Restaurants,573
+50,Industrials,Engineering & Construction,331
+51,Real Estate,Real Estate—Development,272
+52,Technology,Software—Infrastructure,3315
+53,Utilities,Utilities—Regulated Gas,2686
+54,Financial Services,Credit Services,1606
+55,Utilities,Utilities—Independent Power Producers,1853
+56,Financial Services,Banks—Regional,6138
+57,Real Estate,Real Estate Services,2772
+58,,Type,26
+59,Utilities,Utilities—Regulated Water,3768
+60,Consumer Cyclical,Luxury Goods,3326
+61,Basic Materials,Specialty Chemicals,2198
+62,Consumer Cyclical,Luxury Goods,398
+63,Industrials,Infrastructure Operations,152
+64,Energy,Thermal Coal,1088
+65,Financial Services,Credit Services,1669
+66,Industrials,Electrical Equipment & Parts,1710
+67,Real Estate,Real Estate—Development,230
+68,Consumer Cyclical,Footwear & Accessories,1836
+69,Real Estate,Real Estate Services,3990
+70,Industrials,Specialty Business Services,1127
+71,Technology,Information Technology Services,8033
+72,Industrials,Engineering & Construction,1582
+73,Financial Services,Banks—Regional,1988
+74,Real Estate,Real Estate—Development,119
+75,Consumer Cyclical,Apparel Manufacturing,2368
+76,Consumer Defensive,Food Distribution,156
+77,Technology,Software—Infrastructure,543
+78,Industrials,Engineering & Construction,6038
+79,Industrials,Engineering & Construction,2386
+80,Basic Materials,Other Industrial Metals & Mining,3788
+81,Industrials,Farm & Heavy Construction Machinery,3339
+82,Basic Materials,Paper & Paper Products,1412
+83,Financial Services,Insurance—Property & Casualty,2328
+84,Financial Services,Credit Services,373
+85,Basic Materials,Building Materials,2233
+86,Technology,Electronic Components,2788
+87,Energy,Thermal Coal,3948
+88,Consumer Cyclical,Luxury Goods,113
+89,Consumer Cyclical,Internet Retail,1545
+90,Basic Materials,Chemicals,954
+91,Utilities,Utilities—Renewable,2380
+92,Energy,Oil & Gas Equipment & Services,1921
+93,Real Estate,Real Estate—Development,3383
+94,Industrials,Infrastructure Operations,1576
+95,Financial Services,Banks—Regional,2558
+96,Technology,Communication Equipment,1523
+97,Financial Services,Credit Services,1905
+98,Basic Materials,Specialty Chemicals,640
+99,Consumer Cyclical,Apparel Manufacturing,1234
+100,Real Estate,Real Estate—Diversified,1222
+101,Energy,Thermal Coal,1171
+102,Communication Services,Telecom Services,1045
+103,Consumer Cyclical,Personal Services,3997
+104,Basic Materials,Building Materials,2009
+105,Real Estate,Real Estate—Development,3883
+106,Financial Services,Credit Services,900
+107,Consumer Cyclical,Apparel Manufacturing,1982
+108,Real Estate,Real Estate—Development,1107
+109,Consumer Cyclical,Leisure,114
+110,Industrials,Specialty Business Services,450
+111,Basic Materials,Coking Coal,639
+112,Consumer Cyclical,Textile Manufacturing,1382
+113,Real Estate,Real Estate—Diversified,1233
+114,Basic Materials,Coking Coal,6885
+115,Financial Services,Banks—Diversified,3328
+116,Basic Materials,Building Materials,1847
+117,Communication Services,Telecom Services,1883
+118,Real Estate,Real Estate—Diversified,207
+119,Technology,Software—Application,536
+120,Industrials,Engineering & Construction,1793
+121,Technology,Consumer Electronics,1692
+122,Real Estate,Real Estate—Development,1966
+123,Financial Services,Banks—Diversified,3988
+124,Communication Services,Advertising Agencies,1716
+125,Consumer Defensive,Packaged Foods,1285
+126,Industrials,Metal Fabrication,255
+127,Financial Services,Asset Management,1697
+128,Real Estate,Real Estate—Development,1813
+129,,,86
+130,Industrials,Engineering & Construction,1556
+131,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1373
+132,Financial Services,Banks—Regional,6122
+133,Real Estate,REIT—Hotel & Motel,1881
+134,Healthcare,Drug Manufacturers—Specialty & Generic,6896
+135,Technology,Communication Equipment,4333
+136,Utilities,Utilities—Diversified,1071
+137,Industrials,Engineering & Construction,610
+138,,,8040
+139,Industrials,Engineering & Construction,8616
+140,Financial Services,Banks—Regional,3618
+141,Industrials,Infrastructure Operations,548
+142,Utilities,Utilities—Renewable,1713
+143,Basic Materials,Building Materials,743
+144,Industrials,Marine Shipping,3369
+145,Real Estate,Real Estate—Development,3380
+146,Financial Services,Banks—Regional,626
+147,Financial Services,Asset Management,1359
+148,Consumer Cyclical,Apparel Manufacturing,3306
+149,Technology,Electronic Components,1184
+150,Industrials,Airports & Air Services,694
+151,Financial Services,Banks—Regional,998
+152,Real Estate,Real Estate—Development,194
+153,Financial Services,Banks—Diversified,1288
+154,Energy,Oil & Gas E&P,883
+155,Industrials,Engineering & Construction,1783
+156,,Type,8
+157,Financial Services,Banks—Regional,2016
+158,,,3027
+159,Consumer Cyclical,Packaging & Containers,468
+160,Industrials,Engineering & Construction,1599
+161,Industrials,Farm & Heavy Construction Machinery,1839
+162,Financial Services,Capital Markets,1104
+163,Financial Services,Banks—Regional,6818
+164,Real Estate,Real Estate—Development,817
+165,Consumer Cyclical,Auto Parts,1899
+166,Real Estate,Real Estate Services,1663
+167,Industrials,Infrastructure Operations,1052
+168,Real Estate,Real Estate—Diversified,242
+169,Communication Services,Publishing,423
+170,Financial Services,Insurance—Property & Casualty,1339
+171,Real Estate,REIT—Diversified,808
+172,Energy,Oil & Gas Refining & Marketing,338
+173,Consumer Cyclical,Specialty Retail,814
+174,,,35
+175,Industrials,Railroads,3969
+176,Consumer Cyclical,Apparel Manufacturing,533
+177,Utilities,Utilities—Independent Power Producers,991
+178,Energy,Oil & Gas Midstream,934
+179,Communication Services,Publishing,685
+180,Industrials,Infrastructure Operations,737
+181,Industrials,Engineering & Construction,896
+182,Industrials,Infrastructure Operations,80737
+183,Financial Services,Capital Markets,281
+184,Consumer Cyclical,Auto Manufacturers,1958
+185,Communication Services,Telecom Services,6823
+186,Communication Services,Telecom Services,1310
+187,Real Estate,Real Estate—Diversified,535
+188,Real Estate,REIT—Retail,778
+189,,,62
+190,Industrials,Engineering & Construction,659
+191,Industrials,Conglomerates,363
+192,Real Estate,REIT—Office,1426
+193,Basic Materials,Building Materials,1313
+194,Industrials,Marine Shipping,517
+195,Financial Services,Banks—Regional,1551
+196,Consumer Cyclical,Textile Manufacturing,8521
+197,Communication Services,Publishing,811
+198,Industrials,Engineering & Construction,1800
+199,Industrials,Infrastructure Operations,8065
+200,,Type,6
+201,Real Estate,REIT—Diversified,435
+202,Real Estate,REIT—Diversified,87001
+203,Industrials,Marine Shipping,144
+204,Industrials,Specialty Business Services,1975
+205,Technology,Communication Equipment,1617
+206,Financial Services,Banks—Regional,3698
+207,Real Estate,Real Estate—Development,1243
+208,Industrials,Conglomerates,656
+209,Real Estate,Real Estate—Development,6166
+210,Industrials,Rental & Leasing Services,3877
+211,Real Estate,Real Estate—Development,369
+212,Financial Services,Mortgage Finance,1273
+213,Consumer Cyclical,Footwear & Accessories,551
+214,Financial Services,Financial Conglomerates,3329
+215,Real Estate,Real Estate—Development,2007
+216,Real Estate,Real Estate—Development,1238
+217,Healthcare,Medical Care Facilities,8405
+218,Utilities,Utilities—Independent Power Producers,836
+219,Consumer Cyclical,Apparel Manufacturing,393
+220,,Type,81
+221,Consumer Cyclical,Packaging & Containers,1820
+222,Financial Services,Capital Markets,188
+223,Healthcare,Medical Care Facilities,2189
+224,Healthcare,Drug Manufacturers—Specialty & Generic,2877
+225,Industrials,Infrastructure Operations,107
+226,Industrials,Metal Fabrication,1050
+227,Industrials,Electrical Equipment & Parts,1729
+228,Consumer Cyclical,Apparel Manufacturing,1425
+229,Real Estate,Real Estate Services,278
+230,Basic Materials,Chemicals,746
+231,Real Estate,Real Estate—Development,123
+232,Industrials,Infrastructure Operations,1785
+233,Utilities,Utilities—Regulated Water,2281
+234,,,90
+235,Energy,Oil & Gas Integrated,857
+236,Financial Services,Banks—Regional,1578
+237,Healthcare,Medical Care Facilities,2293
+238,,Type,50
+239,Consumer Cyclical,Restaurants,126
+240,Industrials,Waste Management,257
+241,Real Estate,Real Estate—Development,813
+242,Consumer Cyclical,Department Stores,3308
+243,Industrials,Engineering & Construction,3311
+244,Basic Materials,Specialty Chemicals,408
+245,Real Estate,Real Estate—Development,208
+246,Industrials,Conglomerates,267
+247,Consumer Defensive,Packaged Foods,829
+248,Utilities,Utilities—Diversified,956
+249,Basic Materials,Steel,581
+250,Real Estate,Real Estate Services,798
+251,Healthcare,Medical Distribution,8372
+252,Consumer Cyclical,Lodging,6090
+253,Communication Services,Telecom Services,941
+254,Technology,Consumer Electronics,684
+255,Consumer Defensive,Packaged Foods,151
+256,Real Estate,Real Estate—Diversified,1908
+257,Real Estate,Real Estate Services,1528
+258,Industrials,Infrastructure Operations,697
+259,Real Estate,REIT—Diversified,405
+260,Financial Services,Banks—Diversified,1398
+261,Financial Services,Banks—Diversified,939
+262,Utilities,Utilities—Independent Power Producers,902
+263,Consumer Cyclical,Footwear & Accessories,738
+264,Financial Services,Banks—Regional,2388
+265,Consumer Cyclical,Textile Manufacturing,528
+266,Consumer Cyclical,Apparel Manufacturing,2030
+267,Real Estate,REIT—Retail,2778
+268,Financial Services,Mortgage Finance,1319
+269,Financial Services,Insurance—Reinsurance,1508
+270,Consumer Defensive,Packaged Foods,142
+271,Consumer Cyclical,Footwear & Accessories,1100
+272,Consumer Cyclical,Restaurants,538
+273,Technology,Electronics & Computer Distribution,595
+274,Industrials,Infrastructure Operations,177
+275,Utilities,Utilities—Regulated Electric,1038
+276,Industrials,Building Products & Equipment,1897
+277,,,9115
+278,,,3115
+279,,,83115
+280,Healthcare,Drug Manufacturers—Specialty & Generic,1681
+281,Technology,Consumer Electronics,229
+282,Real Estate,Real Estate—Development,683
+283,Consumer Cyclical,Gambling,6889
+284,Basic Materials,Steel,1203
+285,Technology,Electronic Components,8113
+286,Industrials,Marine Shipping,1199
+287,Consumer Cyclical,Resorts & Casinos,1928
+288,Communication Services,Broadcasting,511
+289,Financial Services,Banks—Regional,6196
+290,,Type,12
+291,Technology,Electronic Components,675
+292,Consumer Defensive,Household & Personal Products,3828
+293,Financial Services,Banks—Regional,440
+294,,Type,17
+295,Financial Services,Capital Markets,1469
+296,Basic Materials,Specialty Chemicals,701
+297,Industrials,Metal Fabrication,822
+298,Real Estate,Real Estate—Development,563
+299,Utilities,Utilities—Regulated Water,371
+300,Consumer Cyclical,Auto Manufacturers,489
+301,,,89
+302,Communication Services,Telecom Services,215
+303,Financial Services,Insurance—Life,1336
+304,Real Estate,Real Estate—Development,688
+305,Financial Services,Banks—Regional,1111
+306,Real Estate,Real Estate—Development,2329
+307,,,87
+308,Real Estate,Real Estate—Development,3377
+309,Technology,Information Technology Services,1075
+310,Real Estate,Real Estate—Development,173
+311,Basic Materials,Paper & Paper Products,3363
+312,,,46
+313,Financial Services,Credit Services,1543
+314,Financial Services,Banks—Regional,2356
+315,Real Estate,Real Estate—Diversified,258
+316,Consumer Cyclical,Leisure,635
+317,Financial Services,Asset Management,133
+318,Financial Services,Banks—Regional,1963
+319,Consumer Defensive,Household & Personal Products,1044
+320,Consumer Cyclical,Apparel Retail,2528
+321,Technology,Consumer Electronics,927
+322,Consumer Cyclical,Department Stores,848
+323,Financial Services,Credit Services,1601
+324,Industrials,Marine Shipping,6198
+325,Utilities,Utilities—Regulated Water,855
+326,,Type,1
+327,Industrials,Pollution & Treatment Controls,807
+328,Industrials,Infrastructure Operations,995
+329,Basic Materials,Aluminum,1378
+330,Consumer Cyclical,Auto & Truck Dealerships,693
+331,Healthcare,Medical Distribution,2289
+332,Financial Services,Insurance—Life,2628
+333,,,47
+334,,Type,25
+335,Real Estate,Real Estate—Diversified,672
+336,Industrials,Engineering & Construction,1829
+337,Consumer Cyclical,Apparel Retail,709
+338,Consumer Cyclical,Packaging & Containers,1689
+339,Consumer Cyclical,Apparel Manufacturing,1388
+340,Utilities,Utilities—Independent Power Producers,1816
+341,Financial Services,Credit Services,1577
+342,Industrials,Engineering & Construction,1727
+343,Technology,Consumer Electronics,1070
+344,Industrials,Engineering & Construction,240
+345,Financial Services,Banks—Regional,3866
+346,,,3143
+347,Utilities,Utilities—Diversified,882
+348,Consumer Cyclical,Department Stores,312
+349,Technology,Electronics & Computer Distribution,3991
+350,Consumer Defensive,Packaged Foods,1112
+351,Communication Services,Telecom Services,728
+352,Technology,Consumer Electronics,912
+353,Real Estate,Real Estate—Development,884
+354,Industrials,Pollution & Treatment Controls,1257
+355,Industrials,Engineering & Construction,1459
+356,,,83
+357,Financial Services,Capital Markets,8333
+358,Consumer Defensive,Beverages—Non-Alcoholic,2119
+359,Real Estate,Real Estate—Development,1560
+360,Consumer Cyclical,Luxury Goods,6838
+361,Communication Services,Telecom Services,552
+362,Technology,Information Technology Services,1522
+363,,,97
+364,Healthcare,Drug Manufacturers—Specialty & Generic,239
+365,Industrials,Integrated Freight & Logistics,598
+366,,,88
+367,Financial Services,Banks—Regional,1216
+368,Consumer Defensive,Packaged Foods,3799
+369,Basic Materials,Chemicals,2341
+370,Consumer Defensive,Education & Training Services,1565
+371,Real Estate,Real Estate—Development,1996
+372,Industrials,Engineering & Construction,1637
+373,Consumer Defensive,Packaged Foods,288
+374,Financial Services,Capital Markets,6837
+375,Real Estate,Real Estate—Diversified,1777
+376,Real Estate,Real Estate—Development,3333
+377,Communication Services,Advertising Agencies,6113
+378,Industrials,Engineering & Construction,390
+379,Industrials,Engineering & Construction,1186
+380,Utilities,Utilities—Regulated Water,1542
+381,Utilities,Utilities—Renewable,182
+382,,,14
+383,Financial Services,Credit Services,2666
+384,Healthcare,Drug Manufacturers—Specialty & Generic,2348
+385,Communication Services,Electronic Gaming & Multimedia,1961
+386,Technology,Electronic Components,889
+387,Healthcare,Drug Manufacturers—Specialty & Generic,1513
+388,Real Estate,Real Estate Services,898
+389,,Type,52
+390,Financial Services,Insurance—Life,945
+391,Utilities,Utilities—Regulated Gas,1083
+392,Consumer Cyclical,Department Stores,289
+393,Real Estate,Real Estate—Development,163
+394,Basic Materials,Building Materials,914
+395,Industrials,Railroads,1766
+396,Industrials,Railroads,525
+397,Industrials,Engineering & Construction,2163
+398,,,64
+399,,Type,28
+400,Industrials,Engineering & Construction,3996
+401,Industrials,Conglomerates,392
+402,,,77
+403,Consumer Cyclical,Lodging,2006
+404,Consumer Cyclical,Textile Manufacturing,1968
+405,Consumer Cyclical,Department Stores,984
+406,Utilities,Utilities—Regulated Water,270
+407,Basic Materials,Steel,2738
+408,Industrials,Engineering & Construction,6063
+409,Financial Services,Banks—Regional,1983
+410,Energy,Thermal Coal,1898
+411,Real Estate,Real Estate—Development,1113
+412,,Type,10
+413,Real Estate,Real Estate—Development,185
+414,Consumer Defensive,Packaged Foods,2317
+415,Utilities,Utilities—Regulated Electric,2638
+416,Financial Services,Insurance—Life,2318
+417,Consumer Cyclical,Lodging,199
+418,Industrials,Farm & Heavy Construction Machinery,2102
+419,Consumer Defensive,Grocery Stores,3686
+420,,Type,2
+421,Consumer Defensive,Packaged Foods,322
+422,Consumer Cyclical,Apparel Manufacturing,608
+423,,,16
+424,,,19
+425,Consumer Cyclical,Apparel Manufacturing,2232
+426,Industrials,Specialty Industrial Machinery,641
+427,Real Estate,Real Estate—Development,1918
+428,Real Estate,Real Estate—Development,604
+429,Energy,Oil & Gas Equipment & Services,3899
+430,Healthcare,Medical Care Facilities,722
+431,Consumer Cyclical,Footwear & Accessories,1023
+432,Technology,Information Technology Services,8235
+433,Basic Materials,Specialty Chemicals,546
+434,Communication Services,Electronic Gaming & Multimedia,6820
+435,Real Estate,Real Estate Services,733
+436,Financial Services,Capital Markets,2611
+437,Consumer Cyclical,Resorts & Casinos,3918
+438,Financial Services,Capital Markets,6806
+439,Technology,Electronic Components,1415
+440,Industrials,Marine Shipping,3382
+441,Financial Services,Mortgage Finance,3360
+442,Real Estate,Real Estate Services,237
+443,Technology,Computer Hardware,3336
+444,Basic Materials,Building Materials,366
+445,Consumer Defensive,Food Distribution,226
+446,Financial Services,Banks—Regional,1658
+447,Financial Services,Capital Markets,1788
+448,,Type,71
+449,,,3070
+450,Industrials,Marine Shipping,2866
+451,Energy,Oil & Gas Integrated,135
+452,Real Estate,Real Estate Services,266
+453,Industrials,Marine Shipping,2682
+454,Industrials,Engineering & Construction,385
+455,Real Estate,Real Estate Services,101
+456,Real Estate,Real Estate Services,3699
+457,Consumer Cyclical,Personal Services,1830
+458,Technology,Information Technology Services,8319
+459,Consumer Defensive,Beverages—Non-Alcoholic,220
+460,Consumer Cyclical,Packaging & Containers,906
+461,Real Estate,Real Estate Services,1997
+462,Utilities,Utilities—Renewable,579
+463,Consumer Cyclical,Travel Services,1620
+464,,Type,11
+465,Healthcare,Drug Manufacturers—Specialty & Generic,8049
+466,Industrials,Engineering & Construction,1547
+467,,,18
+468,Industrials,Specialty Industrial Machinery,1786
+469,Industrials,Waste Management,1272
+470,Consumer Defensive,Food Distribution,374
+471,Consumer Cyclical,Apparel Retail,1368
+472,Consumer Cyclical,Leisure,1126
+473,Real Estate,Real Estate Services,1972
+474,Consumer Cyclical,Luxury Goods,590
+475,Industrials,Infrastructure Operations,2258
+476,,,98
+477,Financial Services,Asset Management,165
+478,Utilities,Utilities—Regulated Gas,1600
+479,Consumer Defensive,Food Distribution,677
+480,Real Estate,Real Estate—Development,754
+481,Real Estate,Real Estate—Development,1030
+482,Basic Materials,Agricultural Inputs,3983
+483,Healthcare,Medical Distribution,1099
+484,Financial Services,Capital Markets,6881
+485,Basic Materials,Specialty Chemicals,2283
+486,Industrials,Engineering & Construction,3728
+487,Healthcare,Medical Instruments & Supplies,3600
+488,Consumer Cyclical,Leisure,6858
+489,Real Estate,Real Estate—Development,2103
+490,Real Estate,REIT—Hotel & Motel,1275
+491,Industrials,Waste Management,1330
+492,Real Estate,Real Estate Services,105
+493,Real Estate,Real Estate—Development,2768
+494,Industrials,Integrated Freight & Logistics,935
+495,Utilities,Utilities—Renewable,987
+496,Industrials,Airports & Air Services,2588
+497,Financial Services,Capital Markets,665
+498,Financial Services,Insurance—Life,2601
+499,Consumer Cyclical,Footwear & Accessories,2683
+500,Consumer Cyclical,Resorts & Casinos,296
+501,Industrials,Waste Management,1065
+502,,,3199
+503,Basic Materials,Chemicals,1702
+504,,,83199
+505,Communication Services,Electronic Gaming & Multimedia,799
+506,,,78
+507,Industrials,Engineering & Construction,1618
+508,Financial Services,Capital Markets,6099
+509,Basic Materials,Steel,323
+510,Consumer Defensive,Household & Personal Products,2031
+511,Consumer Defensive,Packaged Foods,6868
+512,,,3121
+513,Consumer Cyclical,"Furnishings, Fixtures & Appliances",921
+514,Real Estate,Real Estate—Development,190
+515,Consumer Defensive,Education & Training Services,6068
+516,Consumer Cyclical,Textile Manufacturing,2698
+517,Real Estate,Real Estate—Development,2202
+518,Technology,Communication Equipment,947
+519,Real Estate,Real Estate Services,212
+520,Industrials,Tools & Accessories,1651
+521,Healthcare,Medical Distribution,2607
+522,Consumer Cyclical,Textile Manufacturing,2307
+523,Financial Services,Capital Markets,6030
+524,Real Estate,Real Estate Services,1538
+525,Real Estate,Real Estate—Diversified,480
+526,Consumer Cyclical,Luxury Goods,213
+527,Real Estate,Real Estate Services,1232
+528,Consumer Cyclical,Textile Manufacturing,2111
+529,Real Estate,Real Estate—Development,1109
+530,Technology,Scientific & Technical Instruments,1743
+531,Basic Materials,Paper & Paper Products,2314
+532,Healthcare,Drug Manufacturers—General,1666
+533,Basic Materials,Chemicals,189
+534,Financial Services,Capital Markets,3958
+535,Healthcare,Pharmaceutical Retailers,1110
+536,Real Estate,Real Estate—Diversified,1668
+537,Real Estate,Real Estate—Development,298
+538,Consumer Cyclical,Home Improvement Retail,599
+539,Industrials,Security & Protection Services,8441
+540,Technology,Communication Equipment,6869
+541,Real Estate,Real Estate—Development,3900
+542,Consumer Cyclical,Residential Construction,2231
+543,,,32
+544,Healthcare,Drug Manufacturers—Specialty & Generic,874
+545,Technology,Electronics & Computer Distribution,2166
+546,,,57
+547,Healthcare,Drug Manufacturers—Specialty & Generic,3737
+548,Basic Materials,Building Materials,3323
+549,Real Estate,Real Estate Services,158
+550,Real Estate,Real Estate Services,225
+551,Industrials,Specialty Industrial Machinery,1072
+552,Communication Services,Telecom Services,762
+553,Real Estate,Real Estate—Development,1278
+554,Consumer Cyclical,Auto Manufacturers,1114
+555,Consumer Defensive,Packaged Foods,6836
+556,Real Estate,Real Estate—Development,1638
+557,Basic Materials,Building Materials,695
+558,Communication Services,Entertainment,2230
+559,Technology,Computer Hardware,3396
+560,Consumer Cyclical,Leisure,3358
+561,Utilities,Utilities—Renewable,3868
+562,Financial Services,Banks—Regional,6199
+563,Real Estate,Real Estate Services,8426
+564,,Type,3
+565,Industrials,Specialty Business Services,1586
+566,Consumer Defensive,Packaged Foods,411
+567,Industrials,Waste Management,895
+568,Healthcare,Drug Manufacturers—Specialty & Generic,2633
+569,Utilities,Utilities—Regulated Gas,1635
+570,Healthcare,Drug Manufacturers—Specialty & Generic,867
+571,Real Estate,Real Estate—Development,216
+572,Consumer Cyclical,Footwear & Accessories,1170
+573,Technology,Consumer Electronics,1249
+574,Technology,Semiconductors,4335
+575,Real Estate,Real Estate—Development,960
+576,Consumer Defensive,Household & Personal Products,3331
+577,Consumer Cyclical,Apparel Manufacturing,2199
+578,,Type,31
+579,Basic Materials,Chemicals,1907
+580,,,3085
+581,,,83085
+582,,,9085
+583,Basic Materials,Paper & Paper Products,2689
+584,Consumer Cyclical,Luxury Goods,116
+585,Real Estate,Real Estate Services,655
+586,Technology,Electronic Components,8073
+587,,,9141
+588,,,3141
+589,Technology,Electronic Components,1888
+590,Consumer Cyclical,Textile Manufacturing,321
+591,Technology,Consumer Electronics,320
+592,,,3789
+593,Consumer Cyclical,Apparel Manufacturing,3998
+594,Industrials,Waste Management,436
+595,Consumer Cyclical,Lodging,355
+596,Consumer Cyclical,Leisure,8406
+597,Consumer Defensive,Education & Training Services,1598
+598,Industrials,Marine Shipping,2880
+599,Financial Services,Capital Markets,6066
+600,Basic Materials,Steel,1118
+601,Consumer Cyclical,Resorts & Casinos,880
+602,Technology,Computer Hardware,992
+603,Consumer Defensive,Packaged Foods,2226
+604,Consumer Cyclical,Lodging,1832
+605,Healthcare,Drug Manufacturers—General,4332
+606,Industrials,Electrical Equipment & Parts,1979
+607,Consumer Defensive,Packaged Foods,3838
+608,Real Estate,Real Estate Services,1895
+609,Consumer Defensive,Packaged Foods,8476
+610,Industrials,Building Products & Equipment,2128
+611,Consumer Cyclical,Auto Manufacturers,2238
+612,Financial Services,Capital Markets,218
+613,,,66
+614,Consumer Defensive,Education & Training Services,6169
+615,Consumer Cyclical,Textile Manufacturing,2678
+616,Consumer Cyclical,Auto Manufacturers,2333
+617,Financial Services,Insurance—Property & Casualty,222
+618,,,95
+619,Consumer Cyclical,Luxury Goods,1929
+620,,,3145
+621,Technology,Electronic Components,259
+622,Industrials,Specialty Industrial Machinery,658
+623,Technology,Semiconductor Equipment & Materials,522
+624,Healthcare,Drug Manufacturers—Specialty & Generic,719
+625,,,85
+626,Communication Services,Electronic Gaming & Multimedia,777
+627,Industrials,Electrical Equipment & Parts,580
+628,Consumer Cyclical,Auto Parts,951
+629,Consumer Cyclical,Lodging,184
+630,Healthcare,Drug Manufacturers—Specialty & Generic,2005
+631,Consumer Cyclical,Auto Parts,819
+632,Consumer Defensive,Education & Training Services,2779
+633,,,2800
+634,Real Estate,Real Estate Services,2048
+635,Consumer Cyclical,Auto Parts,1571
+636,Industrials,Engineering & Construction,1472
+637,,,6083
+638,Financial Services,Credit Services,8223
+639,Communication Services,Electronic Gaming & Multimedia,2100
+640,Utilities,Utilities—Independent Power Producers,1671
+641,Consumer Cyclical,Auto Parts,1809
+642,Consumer Cyclical,Lodging,1158
+643,Industrials,Staffing & Employment Services,2180
+644,,,99
+645,,,82833
+646,Consumer Cyclical,Restaurants,8371
+647,,,2833
+648,Healthcare,Drug Manufacturers—General,2186
+649,,,3012
+650,,,83012
+651,Industrials,Waste Management,1381
+652,,,59
+653,,,82828
+654,Basic Materials,Specialty Chemicals,2116
+655,Basic Materials,Copper,1258
+656,Consumer Cyclical,Auto & Truck Dealerships,3669
+657,Technology,Consumer Electronics,1747
+658,,,2828
+659,Consumer Cyclical,Lodging,617
+660,Industrials,Conglomerates,148
+661,Financial Services,Capital Markets,8540
+662,Technology,Electronics & Computer Distribution,856
+663,Financial Services,Capital Markets,1141
+664,Consumer Cyclical,Lodging,1221
+665,Industrials,Integrated Freight & Logistics,1308
+666,Real Estate,Real Estate Services,2606
+667,Technology,Information Technology Services,1686
+668,Industrials,Engineering & Construction,406
+669,,,23
+670,Consumer Cyclical,Leisure,1005
+671,,,9810
+672,Consumer Defensive,Education & Training Services,1775
+673,Real Estate,Real Estate Services,247
+674,Utilities,Utilities—Regulated Gas,1193
+675,Consumer Cyclical,Auto Parts,1316
+676,Consumer Cyclical,Auto & Truck Dealerships,3836
+677,Consumer Cyclical,Department Stores,6808
+678,Consumer Cyclical,Restaurants,1181
+679,Financial Services,Capital Markets,211
+680,Healthcare,Medical Distribution,1931
+681,,,82813
+682,Healthcare,Drug Manufacturers—Specialty & Generic,570
+683,,,2813
+684,Financial Services,Banks—Regional,3968
+685,Healthcare,Drug Manufacturers—Specialty & Generic,3320
+686,Communication Services,Advertising Agencies,623
+687,Healthcare,Pharmaceutical Retailers,3613
+688,Financial Services,Credit Services,1915
+689,Industrials,Marine Shipping,3378
+690,Real Estate,Real Estate—Diversified,878
+691,Technology,Electronics & Computer Distribution,1213
+692,,,53
+693,Industrials,Engineering & Construction,711
+694,Basic Materials,Agricultural Inputs,1866
+695,Utilities,Utilities—Regulated Gas,2886
+696,Real Estate,Real Estate Services,271
+697,Industrials,Pollution & Treatment Controls,2377
+698,Real Estate,Real Estate—Diversified,497
+699,Communication Services,Entertainment,1970
+700,Basic Materials,Specialty Chemicals,301
+701,,,2821
+702,Basic Materials,Paper & Paper Products,1812
+703,Communication Services,Publishing,1481
+704,Consumer Cyclical,Auto & Truck Dealerships,1771
+705,,,3128
+706,,,83128
+707,Industrials,Specialty Business Services,752
+708,Healthcare,Drug Manufacturers—General,1093
+709,Industrials,Building Products & Equipment,868
+710,,,2822
+711,,,82822
+712,Consumer Cyclical,Packaging & Containers,6898
+713,Real Estate,Real Estate—Development,6158
+714,Energy,Oil & Gas Equipment & Services,2883
+715,Industrials,Specialty Industrial Machinery,1286
+716,Technology,Software—Application,1675
+717,Industrials,Engineering & Construction,2266
+718,Real Estate,Real Estate Services,3662
+719,,,2838
+720,Industrials,Integrated Freight & Logistics,636
+721,Consumer Defensive,Education & Training Services,1569
+722,Industrials,Pollution & Treatment Controls,586
+723,Industrials,Farm & Heavy Construction Machinery,1157
+724,Consumer Defensive,Education & Training Services,1890
+725,Industrials,Rental & Leasing Services,6110
+726,Consumer Defensive,Packaged Foods,1475
+727,Industrials,Railroads,1596
+728,Consumer Defensive,Household & Personal Products,1962
+729,Technology,Software—Application,1588
+730,Healthcare,Biotechnology,1061
+731,Consumer Defensive,Education & Training Services,839
+732,,,2803
+733,,Type,9803
+734,Technology,Information Technology Services,771
+735,Utilities,Utilities—Renewable,1798
+736,Consumer Cyclical,Auto Parts,425
+737,Consumer Defensive,Packaged Foods,1717
+738,Healthcare,Drug Manufacturers—Specialty & Generic,1349
+739,,,3080
+740,Consumer Cyclical,Specialty Retail,1939
+741,Technology,Electronic Components,698
+742,Healthcare,Medical Devices,1696
+743,Technology,Software—Infrastructure,4338
+744,Technology,Software—Infrastructure,1410
+745,Technology,Information Technology Services,861
+746,Consumer Cyclical,Auto Parts,3606
+747,Real Estate,Real Estate Services,287
+748,Industrials,Business Equipment & Supplies,327
+749,Financial Services,Insurance—Life,966
+750,Industrials,Specialty Industrial Machinery,2722
+751,Real Estate,Real Estate—Development,131
+752,,,9074
+753,,,83074
+754,,,3074
+755,Financial Services,Capital Markets,8439
+756,Consumer Defensive,Education & Training Services,2001
+757,Industrials,Electrical Equipment & Parts,1608
+758,Financial Services,Banks—Regional,1916
+759,Technology,Information Technology Services,696
+760,Consumer Cyclical,Auto & Truck Dealerships,1268
+761,Utilities,Utilities—Regulated Gas,384
+762,Communication Services,Entertainment,3636
+763,Financial Services,Capital Markets,1031
+764,Real Estate,Real Estate—Development,3688
+765,Consumer Defensive,Beverages—Non-Alcoholic,1446
+766,Basic Materials,Steel,347
+767,Real Estate,Real Estate—Development,6111
+768,Industrials,Electrical Equipment & Parts,842
+769,Technology,Information Technology Services,1402
+770,,,3126
+771,Industrials,Specialty Industrial Machinery,1882
+772,,,9126
+773,,,83126
+774,Financial Services,Asset Management,806
+775,,,45
+776,Financial Services,Insurance—Life,2378
+777,,,82823
+778,,,2823
+779,Utilities,Utilities—Regulated Gas,1430
+780,Consumer Cyclical,Restaurants,6811
+781,Consumer Defensive,Household & Personal Products,2138
+782,Consumer Defensive,Beverages—Non-Alcoholic,506
+783,Healthcare,Drug Manufacturers—Specialty & Generic,512
+784,Industrials,Farm & Heavy Construction Machinery,3808
+785,Consumer Defensive,Education & Training Services,1769
+786,Healthcare,Medical Instruments & Supplies,1066
+787,Real Estate,Real Estate Services,3319
+788,Consumer Defensive,Food Distribution,1705
+789,Financial Services,Insurance—Life,662
+790,Consumer Cyclical,Auto Parts,1930
+791,Real Estate,Real Estate Services,3316
+792,Technology,Communication Equipment,1085
+793,,Type,4
+794,Consumer Cyclical,Apparel Manufacturing,3709
+795,Technology,Semiconductor Equipment & Materials,4336
+796,Financial Services,Asset Management,2799
+797,Real Estate,Real Estate Services,367
+798,Technology,Electronics & Computer Distribution,529
+799,Consumer Cyclical,Auto Parts,564
+800,Industrials,Engineering & Construction,2262
+801,Energy,Uranium,1164
+802,Industrials,Railroads,3898
+803,Healthcare,Medical Care Facilities,1515
+804,Utilities,Utilities—Regulated Gas,2688
+805,,,3160
+806,Communication Services,Telecom Services,788
+807,,,2843
+808,,,82843
+809,Consumer Cyclical,Resorts & Casinos,2282
+810,Industrials,Farm & Heavy Construction Machinery,631
+811,Industrials,Specialty Industrial Machinery,2338
+812,,,3165
+813,,,3149
+814,,,82805
+815,,,83149
+816,,,9805
+817,,,2805
+818,Real Estate,Real Estate Services,277
+819,Industrials,Specialty Industrial Machinery,679
+820,Industrials,Engineering & Construction,8411
+821,Consumer Defensive,Education & Training Services,382
+822,Financial Services,Banks—Regional,6190
+823,Basic Materials,Steel,826
+824,,,3101
+825,Industrials,Marine Shipping,1138
+826,,,9101
+827,,,83101
+828,Healthcare,Medical Care Facilities,1989
+829,Financial Services,Insurance—Life,1299
+830,Healthcare,Drug Manufacturers—General,3933
+831,Financial Services,Capital Markets,3678
+832,Technology,Software—Infrastructure,8062
+833,Real Estate,Real Estate—Development,1622
+834,,,27
+835,Financial Services,Capital Markets,335
+836,Basic Materials,Specialty Chemicals,8053
+837,Industrials,Metal Fabrication,838
+838,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1999
+839,,,83100
+840,,,3100
+841,Healthcare,Biotechnology,6826
+842,,,2801
+843,Consumer Defensive,Education & Training Services,667
+844,,,96
+845,Consumer Defensive,Education & Training Services,1752
+846,Financial Services,Mortgage Finance,1290
+847,,,3049
+848,,,83169
+849,,,9169
+850,Consumer Defensive,Packaged Foods,1458
+851,Industrials,Engineering & Construction,1271
+852,Consumer Cyclical,Textile Manufacturing,2313
+853,Basic Materials,Steel,6890
+854,,,3169
+855,Healthcare,Drug Manufacturers—Specialty & Generic,2196
+856,,,9846
+857,Energy,Oil & Gas Refining & Marketing,2337
+858,Healthcare,Drug Manufacturers—Specialty & Generic,950
+859,,,82846
+860,,,2846
+861,Consumer Cyclical,Auto Parts,6163
+862,Healthcare,Biotechnology,775
+863,Real Estate,Real Estate—Development,1224
+864,Industrials,Metal Fabrication,2039
+865,Technology,Communication Equipment,763
+866,Industrials,Specialty Industrial Machinery,1665
+867,,,9170
+868,,,3170
+869,,,83170
+870,Utilities,Utilities—Regulated Gas,3633
+871,,,2802
+872,Industrials,Marine Shipping,2343
+873,Industrials,Specialty Industrial Machinery,2208
+874,Technology,Solar,968
+875,,,83010
+876,,,3010
+877,,,9010
+878,Consumer Defensive,Farm Products,1533
+879,Consumer Cyclical,Personal Services,1448
+880,Consumer Cyclical,Auto Manufacturers,175
+881,Utilities,Utilities—Renewable,916
+882,Consumer Defensive,Household & Personal Products,973
+883,Technology,Electronic Components,1639
+884,Consumer Defensive,Packaged Foods,345
+885,Basic Materials,Gold,2899
+886,Communication Services,Internet Content & Information,1739
+887,Industrials,Conglomerates,8149
+888,Real Estate,Real Estate Services,2869
+889,Healthcare,Biotechnology,1177
+890,Consumer Cyclical,Auto & Truck Dealerships,881
+891,Real Estate,Real Estate Services,2669
+892,Consumer Defensive,Packaged Foods,6186
+893,Industrials,Tools & Accessories,669
+894,Consumer Defensive,Beverages—Brewers,168
+895,Industrials,Specialty Industrial Machinery,3302
+896,Consumer Cyclical,Packaging & Containers,252
+897,,,3140
+898,Consumer Cyclical,Apparel Retail,1223
+899,,,83140
+900,Real Estate,Real Estate Services,3603
+901,,,9140
+902,Consumer Defensive,Packaged Foods,1610
+903,Consumer Defensive,Tobacco,6055
+904,,,9167
+905,,,83167
+906,,,3167
+907,Real Estate,Real Estate Services,1755
+908,Industrials,Engineering & Construction,2236
+909,Healthcare,Drug Manufacturers—Specialty & Generic,455
+910,Healthcare,Drug Manufacturers—Specialty & Generic,460
+911,Financial Services,Credit Services,6069
+912,Real Estate,Real Estate Services,1922
+913,Consumer Cyclical,Restaurants,9987
+914,Technology,Communication Equipment,2342
+915,Basic Materials,Other Industrial Metals & Mining,3993
+916,Real Estate,Real Estate Services,9909
+917,Consumer Cyclical,Textile Manufacturing,3608
+918,Industrials,Marine Shipping,316
+919,Industrials,Airlines,753
+920,,,2819
+921,Industrials,Engineering & Construction,1183
+922,Consumer Defensive,Education & Training Services,1593
+923,Consumer Cyclical,Auto Parts,179
+924,Real Estate,Real Estate—Development,3366
+925,Basic Materials,Gold,1787
+926,,,83188
+927,Financial Services,Credit Services,3848
+928,,,3188
+929,Technology,Electronic Components,1478
+930,Consumer Cyclical,Residential Construction,1902
+931,Healthcare,Medical Devices,1789
+932,Real Estate,Real Estate—Diversified,251
+933,Healthcare,Medical Devices,1612
+934,Consumer Defensive,Grocery Stores,759
+935,Real Estate,Real Estate Services,6049
+936,Financial Services,Capital Markets,6178
+937,,,2811
+938,Consumer Cyclical,Restaurants,341
+939,Industrials,Engineering & Construction,1656
+940,Industrials,Aerospace & Defense,2357
+941,Basic Materials,Copper,358
+942,Consumer Cyclical,Auto Parts,1760
+943,,,82811
+944,,,75
+945,Real Estate,Real Estate Services,1417
+946,Basic Materials,Gold,1818
+947,Consumer Cyclical,Resorts & Casinos,200
+948,Healthcare,Diagnostics & Research,1763
+949,Real Estate,Real Estate Services,9928
+950,Real Estate,Real Estate—Development,127
+951,Healthcare,Biotechnology,1873
+952,Healthcare,Medical Instruments & Supplies,1501
+953,Consumer Defensive,Packaged Foods,2319
+954,Consumer Cyclical,Apparel Retail,6288
+955,Consumer Cyclical,Leisure,2020
+956,Consumer Cyclical,Restaurants,520
+957,Technology,Electronic Components,2382
+958,Consumer Cyclical,Leisure,2331
+959,Technology,Communication Equipment,553
+960,,,9077
+961,,,3077
+962,Healthcare,Medical Care Facilities,1951
+963,,,9022
+964,,,3022
+965,Industrials,Building Products & Equipment,6865
+966,Consumer Cyclical,Auto Parts,6830
+967,Consumer Defensive,Education & Training Services,1765
+968,Healthcare,Medical Care Facilities,3309
+969,Technology,Solar,1799
+970,Industrials,Specialty Industrial Machinery,558
+971,Consumer Defensive,Beverages—Brewers,291
+972,Basic Materials,Chemicals,1772
+973,Technology,Information Technology Services,354
+974,Industrials,Engineering & Construction,2068
+975,Real Estate,Real Estate Services,6098
+976,Technology,Electronic Components,710
+977,Real Estate,Real Estate Services,1995
+978,Healthcare,Drug Manufacturers—Specialty & Generic,1652
+979,Technology,Communication Equipment,2018
+980,Healthcare,Diagnostics & Research,2359
+981,Consumer Cyclical,Restaurants,6862
+982,Consumer Defensive,Packaged Foods,1579
+983,,,3086
+984,,,9086
+985,Industrials,Integrated Freight & Logistics,6123
+986,Technology,Communication Equipment,285
+987,Communication Services,Internet Content & Information,700
+988,Communication Services,Electronic Gaming & Multimedia,3888
+989,Basic Materials,Coking Coal,2798
+990,Consumer Cyclical,Auto Parts,305
+991,Healthcare,Biotechnology,3759
+992,Healthcare,Medical Devices,853
+993,,,29
+994,Basic Materials,Copper,2362
+995,Consumer Cyclical,Auto Manufacturers,1211
+996,Communication Services,Advertising Agencies,100
+997,Basic Materials,Specialty Chemicals,1000
+998,Industrials,Industrial Distribution,1001
+999,Technology,Electronic Components,1002
+1000,Communication Services,Entertainment,1003
+1001,Financial Services,Capital Markets,1004
+1002,Consumer Cyclical,Packaging & Containers,1008
+1003,Real Estate,Real Estate Services,1009
+1004,Technology,Semiconductors,1010
+1005,Healthcare,Drug Manufacturers—Specialty & Generic,1011
+1006,Technology,Electronics & Computer Distribution,1013
+1007,Consumer Cyclical,Resorts & Casinos,102
+1008,Consumer Cyclical,Internet Retail,1020
+1009,Communication Services,Electronic Gaming & Multimedia,1022
+1010,Communication Services,Broadcasting,1024
+1011,Consumer Cyclical,Apparel Manufacturing,1025
+1012,Utilities,Utilities—Regulated Water,1026
+1013,Consumer Cyclical,Footwear & Accessories,1027
+1014,Consumer Cyclical,Footwear & Accessories,1028
+1015,Basic Materials,Other Industrial Metals & Mining,1029
+1016,Basic Materials,Steel,103
+1017,Energy,Oil & Gas Drilling,1033
+1018,Industrials,Engineering & Construction,1034
+1019,Real Estate,Real Estate Services,1036
+1020,Technology,Information Technology Services,1037
+1021,Consumer Cyclical,Internet Retail,1039
+1022,Consumer Cyclical,Specialty Retail,104
+1023,Industrials,Conglomerates,1041
+1024,Industrials,Electrical Equipment & Parts,1043
+1025,Communication Services,Entertainment,1046
+1026,Basic Materials,Specialty Chemicals,1047
+1027,Consumer Cyclical,Department Stores,1049
+1028,Financial Services,Asset Management,1051
+1029,Basic Materials,Steel,1053
+1030,Industrials,Airlines,1055
+1031,Consumer Cyclical,Auto Parts,1057
+1032,Consumer Cyclical,Footwear & Accessories,1058
+1033,Technology,Information Technology Services,1059
+1034,Communication Services,Entertainment,1060
+1035,,,1062
+1036,Industrials,Conglomerates,1063
+1037,Real Estate,Real Estate—Development,1064
+1038,Consumer Defensive,Packaged Foods,1068
+1039,Basic Materials,Lumber & Wood Production,1069
+1040,Financial Services,Capital Markets,1073
+1041,Consumer Cyclical,Resorts & Casinos,1076
+1042,Technology,Computer Hardware,1079
+1043,Real Estate,Real Estate Services,108
+1044,Energy,Oil & Gas Equipment & Services,1080
+1045,Consumer Defensive,Education & Training Services,1082
+1046,Consumer Defensive,Farm Products,1084
+1047,Consumer Cyclical,Leisure,1086
+1048,Technology,Communication Equipment,1087
+1049,Financial Services,Asset Management,109
+1050,Basic Materials,Steel,1090
+1051,Basic Materials,Other Industrial Metals & Mining,1091
+1052,Industrials,Conglomerates,1094
+1053,Consumer Cyclical,Footwear & Accessories,1096
+1054,Communication Services,Entertainment,1097
+1055,Technology,Consumer Electronics,110
+1056,Energy,Oil & Gas E&P,1101
+1057,Basic Materials,Building Materials,1102
+1058,Basic Materials,Agricultural Inputs,1103
+1059,Communication Services,Publishing,1105
+1060,,Type,1106
+1061,Industrials,Building Products & Equipment,1108
+1062,Financial Services,Capital Markets,111
+1063,Consumer Defensive,Beverages—Non-Alcoholic,1115
+1064,Basic Materials,Steel,1116
+1065,Consumer Defensive,Farm Products,1117
+1066,Communication Services,Electronic Gaming & Multimedia,1119
+1067,Real Estate,Real Estate—Development,112
+1068,Healthcare,Medical Instruments & Supplies,1120
+1069,Consumer Cyclical,Footwear & Accessories,1121
+1070,Consumer Cyclical,Leisure,1123
+1071,Real Estate,Real Estate—Development,1124
+1072,Real Estate,Real Estate—Diversified,1125
+1073,Consumer Cyclical,Resorts & Casinos,1128
+1074,Utilities,Utilities—Regulated Water,1129
+1075,Consumer Cyclical,Auto & Truck Dealerships,1130
+1076,Energy,Thermal Coal,1131
+1077,Communication Services,Entertainment,1132
+1078,Industrials,Specialty Industrial Machinery,1133
+1079,Healthcare,Medical Instruments & Supplies,1134
+1080,Consumer Cyclical,Internet Retail,1137
+1081,Financial Services,Asset Management,1140
+1082,Energy,Oil & Gas Refining & Marketing,1142
+1083,Technology,Consumer Electronics,1143
+1084,Industrials,Marine Shipping,1145
+1085,Consumer Cyclical,Apparel Manufacturing,1146
+1086,Technology,Information Technology Services,1147
+1087,Consumer Cyclical,Auto Parts,1148
+1088,Real Estate,Real Estate—Development,115
+1089,Consumer Cyclical,Luxury Goods,1150
+1090,Consumer Defensive,Food Distribution,1152
+1091,Real Estate,Real Estate—Diversified,1153
+1092,Energy,Oil & Gas Equipment & Services,1156
+1093,Communication Services,Entertainment,1159
+1094,,Type,1160
+1095,Industrials,Security & Protection Services,1162
+1096,Communication Services,Advertising Agencies,1163
+1097,Technology,Solar,1165
+1098,Industrials,Electrical Equipment & Parts,1166
+1099,Healthcare,Biotechnology,1167
+1100,Real Estate,Real Estate—Diversified,1168
+1101,Technology,Electronic Components,117
+1102,Industrials,Specialty Business Services,1172
+1103,Consumer Defensive,Household & Personal Products,1173
+1104,Consumer Defensive,Food Distribution,1175
+1105,Real Estate,Real Estate—Development,1176
+1106,Consumer Defensive,Household & Personal Products,1178
+1107,Consumer Cyclical,Lodging,1179
+1108,Technology,Electronic Components,118
+1109,Consumer Cyclical,Resorts & Casinos,1180
+1110,Industrials,Specialty Business Services,1182
+1111,Utilities,Utilities—Renewable,1185
+1112,Consumer Cyclical,Auto Parts,1188
+1113,Consumer Cyclical,Lodging,1189
+1114,,,1190
+1115,Financial Services,Capital Markets,1191
+1116,Industrials,Aerospace & Defense,1192
+1117,,,1194
+1118,Real Estate,Real Estate—Diversified,1195
+1119,Industrials,Waste Management,1196
+1120,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1198
+1121,Real Estate,Real Estate—Diversified,120
+1122,Real Estate,Real Estate Services,1200
+1123,Real Estate,Real Estate—Development,1201
+1124,Technology,Communication Equipment,1202
+1125,Basic Materials,Other Industrial Metals & Mining,1205
+1126,Technology,Electronic Components,1206
+1127,Real Estate,Real Estate—Development,1207
+1128,Basic Materials,Other Industrial Metals & Mining,1208
+1129,Real Estate,Real Estate Services,1209
+1130,Consumer Defensive,Grocery Stores,1210
+1131,Consumer Cyclical,Department Stores,1212
+1132,Consumer Cyclical,Lodging,1215
+1133,Financial Services,Asset Management,1217
+1134,Real Estate,Real Estate—Development,1218
+1135,Consumer Cyclical,Apparel Manufacturing,122
+1136,,Type,1220
+1137,Financial Services,Asset Management,1226
+1138,Financial Services,Asset Management,1227
+1139,Energy,Thermal Coal,1229
+1140,Consumer Defensive,Packaged Foods,1230
+1141,Basic Materials,Steel,1231
+1142,Consumer Cyclical,Travel Services,1235
+1143,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1237
+1144,Consumer Cyclical,Packaging & Containers,1239
+1145,Real Estate,Real Estate—Development,124
+1146,Consumer Cyclical,Auto Parts,1241
+1147,Consumer Cyclical,Resorts & Casinos,1245
+1148,Real Estate,Real Estate—Development,1246
+1149,Consumer Cyclical,Apparel Manufacturing,1247
+1150,Consumer Cyclical,Luxury Goods,125
+1151,Utilities,Utilities—Independent Power Producers,1250
+1152,Energy,Oil & Gas Integrated,1251
+1153,Basic Materials,Building Materials,1252
+1154,Industrials,Engineering & Construction,1253
+1155,Consumer Cyclical,Footwear & Accessories,1255
+1156,Consumer Defensive,Household & Personal Products,1259
+1157,Industrials,Specialty Business Services,1260
+1158,Consumer Defensive,Packaged Foods,1262
+1159,Technology,Computer Hardware,1263
+1160,Utilities,Utilities—Regulated Gas,1265
+1161,Basic Materials,Steel,1266
+1162,Consumer Cyclical,Auto Parts,1269
+1163,Consumer Cyclical,Lodging,1270
+1164,Consumer Cyclical,Apparel Retail,128
+1165,Consumer Cyclical,Specialty Retail,1280
+1166,Utilities,Utilities—Independent Power Producers,1281
+1167,Industrials,Conglomerates,1282
+1168,Industrials,Engineering & Construction,1283
+1169,Industrials,Specialty Industrial Machinery,1289
+1170,Financial Services,Asset Management,129
+1171,Industrials,Integrated Freight & Logistics,1292
+1172,Consumer Cyclical,Auto & Truck Dealerships,1293
+1173,Industrials,Pollution & Treatment Controls,1296
+1174,Technology,Software—Application,1297
+1175,Technology,Scientific & Technical Instruments,1298
+1176,Consumer Cyclical,Apparel Manufacturing,130
+1177,Technology,Communication Equipment,1300
+1178,Industrials,Engineering & Construction,1301
+1179,Healthcare,Medical Devices,1302
+1180,Industrials,Conglomerates,1303
+1181,Technology,Electronic Components,1305
+1182,Basic Materials,Building Materials,1312
+1183,Consumer Cyclical,Restaurants,1314
+1184,Industrials,Engineering & Construction,1315
+1185,Consumer Defensive,Education & Training Services,1317
+1186,Industrials,Conglomerates,132
+1187,Real Estate,Real Estate—Development,1321
+1188,Consumer Defensive,Household & Personal Products,1323
+1189,Communication Services,Entertainment,1326
+1190,Consumer Cyclical,Luxury Goods,1327
+1191,Industrials,Specialty Business Services,1328
+1192,Real Estate,Real Estate—Diversified,1329
+1193,Consumer Cyclical,Packaging & Containers,1332
+1194,Basic Materials,Aluminum,1333
+1195,Consumer Cyclical,Packaging & Containers,1335
+1196,Technology,Computer Hardware,1337
+1197,Consumer Defensive,Household & Personal Products,1338
+1198,Consumer Defensive,Packaged Foods,1340
+1199,Industrials,Rental & Leasing Services,1341
+1200,Industrials,Engineering & Construction,1343
+1201,Healthcare,Pharmaceutical Retailers,1345
+1202,Technology,Semiconductors,1347
+1203,Consumer Cyclical,Leisure,1348
+1204,Communication Services,Advertising Agencies,1351
+1205,Consumer Cyclical,Lodging,1355
+1206,Communication Services,Internet Content & Information,1357
+1207,Healthcare,Medical Instruments & Supplies,1358
+1208,Consumer Cyclical,Internet Retail,136
+1209,Industrials,Specialty Business Services,1360
+1210,Consumer Cyclical,Leisure,1361
+1211,Technology,Electronics & Computer Distribution,1362
+1212,,Type,1363
+1213,Consumer Cyclical,Auto & Truck Dealerships,1365
+1214,Industrials,Electrical Equipment & Parts,1366
+1215,Consumer Cyclical,Apparel Retail,1367
+1216,Industrials,Marine Shipping,137
+1217,Basic Materials,Other Industrial Metals & Mining,1370
+1218,Consumer Cyclical,Gambling,1371
+1219,Industrials,Engineering & Construction,1372
+1220,Financial Services,Capital Markets,1375
+1221,Industrials,Consulting Services,1376
+1222,Real Estate,Real Estate Services,1379
+1223,Industrials,Conglomerates,138
+1224,Basic Materials,Other Industrial Metals & Mining,1380
+1225,Real Estate,Real Estate—Diversified,1383
+1226,Technology,Semiconductor Equipment & Materials,1385
+1227,Consumer Cyclical,Footwear & Accessories,1386
+1228,Real Estate,Real Estate Services,1387
+1229,Consumer Defensive,Beverages—Wineries & Distilleries,1389
+1230,Financial Services,Capital Markets,139
+1231,Energy,Thermal Coal,1393
+1232,Industrials,Waste Management,1395
+1233,Real Estate,Real Estate—Development,1396
+1234,Industrials,Waste Management,1397
+1235,Industrials,Electrical Equipment & Parts,1399
+1236,Consumer Cyclical,Textile Manufacturing,1400
+1237,Technology,Consumer Electronics,1401
+1238,Industrials,Engineering & Construction,1408
+1239,Real Estate,Real Estate Services,141
+1240,Industrials,Engineering & Construction,1416
+1241,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1418
+1242,Healthcare,Medical Care Facilities,1419
+1243,Industrials,Engineering & Construction,1420
+1244,Technology,Solar,1421
+1245,Real Estate,Real Estate—Diversified,1427
+1246,Industrials,Engineering & Construction,1429
+1247,Technology,Communication Equipment,143
+1248,Consumer Defensive,Farm Products,1431
+1249,Consumer Defensive,Farm Products,1432
+1250,Consumer Cyclical,Apparel Manufacturing,1433
+1251,Consumer Cyclical,Packaging & Containers,1439
+1252,Basic Materials,Specialty Chemicals,1440
+1253,Industrials,Integrated Freight & Logistics,1442
+1254,Consumer Cyclical,Restaurants,1443
+1255,Consumer Defensive,Education & Training Services,1449
+1256,Financial Services,Asset Management,145
+1257,Technology,Software—Application,1450
+1258,Consumer Cyclical,Packaging & Containers,1451
+1259,Industrials,Pollution & Treatment Controls,1452
+1260,Consumer Defensive,Household & Personal Products,1455
+1261,Financial Services,Capital Markets,1456
+1262,Consumer Cyclical,Textile Manufacturing,146
+1263,Technology,Information Technology Services,1460
+1264,Financial Services,Capital Markets,1461
+1265,,Type,1462
+1266,Industrials,Specialty Business Services,1463
+1267,Consumer Cyclical,Luxury Goods,1466
+1268,Industrials,Conglomerates,1468
+1269,Real Estate,Real Estate—Development,147
+1270,Consumer Cyclical,Luxury Goods,1470
+1271,Technology,Communication Equipment,1473
+1272,Financial Services,Capital Markets,1476
+1273,Healthcare,Biotechnology,1477
+1274,Technology,Electronic Components,1480
+1275,Consumer Cyclical,Restaurants,1483
+1276,Industrials,Engineering & Construction,1486
+1277,Consumer Cyclical,Restaurants,1488
+1278,Real Estate,Real Estate—Diversified,149
+1279,Communication Services,Advertising Agencies,1490
+1280,Consumer Defensive,Farm Products,1492
+1281,Industrials,Engineering & Construction,1495
+1282,Industrials,Rental & Leasing Services,1496
+1283,Healthcare,Drug Manufacturers—Specialty & Generic,1498
+1284,Industrials,Engineering & Construction,1499
+1285,Communication Services,Internet Content & Information,150
+1286,Industrials,Engineering & Construction,1500
+1287,Real Estate,Real Estate Services,1502
+1288,Real Estate,REIT—Diversified,1503
+1289,Healthcare,Medical Care Facilities,1509
+1290,Real Estate,Real Estate Services,1516
+1291,Healthcare,Medical Care Facilities,1518
+1292,Consumer Cyclical,Apparel Manufacturing,1520
+1293,Healthcare,Biotechnology,1521
+1294,Consumer Defensive,Education & Training Services,1525
+1295,Healthcare,Medical Care Facilities,1526
+1296,Industrials,Pollution & Treatment Controls,1527
+1297,Industrials,Integrated Freight & Logistics,1529
+1298,Industrials,Engineering & Construction,153
+1299,Healthcare,Biotechnology,1530
+1300,Consumer Cyclical,Apparel Manufacturing,1532
+1301,Industrials,Specialty Industrial Machinery,1536
+1302,Industrials,Electrical Equipment & Parts,1539
+1303,Industrials,Waste Management,154
+1304,Industrials,Engineering & Construction,1546
+1305,Healthcare,Biotechnology,1548
+1306,Industrials,Marine Shipping,1549
+1307,,,1552
+1308,Basic Materials,Steel,1553
+1309,Energy,Oil & Gas E&P,1555
+1310,,,1557
+1311,Industrials,Engineering & Construction,1559
+1312,,,1561
+1313,Financial Services,Credit Services,1563
+1314,Communication Services,Entertainment,1566
+1315,Industrials,Consulting Services,1568
+1316,Consumer Defensive,Household & Personal Products,157
+1317,Real Estate,Real Estate—Development,1570
+1318,Consumer Cyclical,Specialty Retail,1572
+1319,,Type,1573
+1320,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1575
+1321,Basic Materials,Lumber & Wood Production,1580
+1322,Industrials,Rental & Leasing Services,1581
+1323,Consumer Defensive,Packaged Foods,1583
+1324,Consumer Cyclical,Auto Manufacturers,1585
+1325,Consumer Defensive,Food Distribution,1587
+1326,Industrials,Integrated Freight & Logistics,1589
+1327,Basic Materials,Other Industrial Metals & Mining,159
+1328,Industrials,Engineering & Construction,1591
+1329,Industrials,Building Products & Equipment,1592
+1330,Industrials,Specialty Industrial Machinery,1597
+1331,Real Estate,Real Estate—Development,160
+1332,Industrials,Engineering & Construction,1609
+1333,Technology,Electronic Components,1611
+1334,Technology,Communication Equipment,1613
+1335,Industrials,Engineering & Construction,1615
+1336,Communication Services,Entertainment,1616
+1337,Consumer Cyclical,Department Stores,162
+1338,Energy,Oil & Gas Refining & Marketing,1621
+1339,Energy,Oil & Gas Equipment & Services,1623
+1340,Consumer Cyclical,Packaging & Containers,1626
+1341,Industrials,Engineering & Construction,1627
+1342,Consumer Cyclical,Packaging & Containers,1629
+1343,Industrials,Engineering & Construction,1630
+1344,Industrials,Specialty Business Services,1631
+1345,Technology,Electronics & Computer Distribution,1632
+1346,Industrials,Engineering & Construction,1633
+1347,Basic Materials,Copper,1636
+1348,,Type,164
+1349,Communication Services,Advertising Agencies,1640
+1350,Healthcare,Drug Manufacturers—General,1643
+1351,Industrials,Specialty Industrial Machinery,1645
+1352,Industrials,Engineering & Construction,1647
+1353,,Type,1649
+1354,Industrials,Consulting Services,1650
+1355,Industrials,Building Products & Equipment,1653
+1356,Consumer Cyclical,Gambling,1655
+1357,Consumer Cyclical,Apparel Retail,1657
+1358,Energy,Oil & Gas E&P,166
+1359,Industrials,Industrial Distribution,1660
+1360,Communication Services,Entertainment,1661
+1361,Industrials,Engineering & Construction,1662
+1362,,,1667
+1363,Technology,Consumer Electronics,167
+1364,Healthcare,Biotechnology,1672
+1365,Industrials,Specialty Industrial Machinery,1673
+1366,Consumer Defensive,Packaged Foods,1676
+1367,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1678
+1368,Technology,Semiconductors,1679
+1369,Consumer Cyclical,Resorts & Casinos,1680
+1370,Consumer Cyclical,Apparel Manufacturing,1682
+1371,Industrials,Engineering & Construction,1683
+1372,Industrials,Industrial Distribution,1685
+1373,Real Estate,Real Estate—Development,169
+1374,,,1690
+1375,Consumer Defensive,Household & Personal Products,1691
+1376,Industrials,Engineering & Construction,1693
+1377,Consumer Defensive,Packaged Foods,1695
+1378,Consumer Defensive,Farm Products,1699
+1379,Consumer Cyclical,Travel Services,1701
+1380,Consumer Cyclical,Restaurants,1703
+1381,,,1706
+1382,Industrials,Engineering & Construction,1707
+1383,Technology,Communication Equipment,1708
+1384,Consumer Cyclical,Textile Manufacturing,1709
+1385,Real Estate,Real Estate Services,171
+1386,Consumer Cyclical,Specialty Retail,1711
+1387,Basic Materials,Gold,1712
+1388,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1715
+1389,Industrials,Engineering & Construction,1718
+1390,Industrials,Marine Shipping,1719
+1391,,Type,172
+1392,Technology,Communication Equipment,1720
+1393,Industrials,Metal Fabrication,1721
+1394,Industrials,Engineering & Construction,1722
+1395,Communication Services,Telecom Services,1723
+1396,Industrials,Electrical Equipment & Parts,1725
+1397,Industrials,Engineering & Construction,1726
+1398,Consumer Cyclical,Auto & Truck Dealerships,1728
+1399,Consumer Cyclical,Footwear & Accessories,1731
+1400,Industrials,Integrated Freight & Logistics,1732
+1401,Energy,Thermal Coal,1733
+1402,Industrials,Engineering & Construction,1735
+1403,Communication Services,Advertising Agencies,1736
+1404,,,1737
+1405,Energy,Thermal Coal,1738
+1406,Financial Services,Asset Management,174
+1407,Communication Services,Entertainment,1740
+1408,Industrials,Engineering & Construction,1741
+1409,Industrials,Engineering & Construction,1742
+1410,Consumer Cyclical,Travel Services,1745
+1411,Industrials,Engineering & Construction,1746
+1412,Industrials,Marine Shipping,1748
+1413,Consumer Cyclical,Apparel Manufacturing,1749
+1414,Industrials,Specialty Industrial Machinery,1750
+1415,Industrials,Engineering & Construction,1751
+1416,Communication Services,Advertising Agencies,1753
+1417,Consumer Defensive,Education & Training Services,1756
+1418,Industrials,Engineering & Construction,1757
+1419,Consumer Defensive,Education & Training Services,1758
+1420,Consumer Cyclical,Specialty Retail,1759
+1421,Technology,Consumer Electronics,176
+1422,Communication Services,Internet Content & Information,1761
+1423,Communication Services,Advertising Agencies,1762
+1424,,,1767
+1425,Consumer Defensive,Education & Training Services,1773
+1426,Financial Services,Capital Markets,1776
+1427,Real Estate,Real Estate Services,1778
+1428,Consumer Cyclical,Specialty Retail,178
+1429,Industrials,Engineering & Construction,1780
+1430,Consumer Cyclical,Packaging & Containers,1781
+1431,Technology,Software—Application,1782
+1432,Industrials,Waste Management,1790
+1433,Communication Services,Electronic Gaming & Multimedia,1792
+1434,Consumer Cyclical,Textile Manufacturing,1795
+1435,Industrials,Building Products & Equipment,1796
+1436,Consumer Defensive,Education & Training Services,1797
+1437,Consumer Cyclical,Leisure,180
+1438,Healthcare,Biotechnology,1801
+1439,Industrials,Engineering & Construction,1802
+1440,Consumer Cyclical,Leisure,1803
+1441,Technology,Software—Infrastructure,1806
+1442,Technology,Software—Application,1808
+1443,Consumer Cyclical,Lodging,181
+1444,Technology,Consumer Electronics,1810
+1445,Utilities,Utilities—Independent Power Producers,1811
+1446,Consumer Cyclical,Luxury Goods,1815
+1447,Consumer Cyclical,Apparel Retail,1817
+1448,Real Estate,Real Estate Services,1821
+1449,Basic Materials,Lumber & Wood Production,1822
+1450,Industrials,Infrastructure Operations,1823
+1451,Consumer Cyclical,Apparel Manufacturing,1825
+1452,Industrials,Engineering & Construction,1826
+1453,Consumer Cyclical,Personal Services,1827
+1454,Real Estate,Real Estate Services,183
+1455,Communication Services,Advertising Agencies,1831
+1456,Healthcare,Health Information Services,1833
+1457,Financial Services,Asset Management,1835
+1458,Consumer Defensive,Packaged Foods,1837
+1459,Real Estate,Real Estate—Development,1838
+1460,Industrials,Specialty Business Services,1841
+1461,Consumer Cyclical,Footwear & Accessories,1842
+1462,Consumer Cyclical,Restaurants,1843
+1463,Industrials,Waste Management,1845
+1464,Healthcare,Medical Care Facilities,1846
+1465,Industrials,Airports & Air Services,1848
+1466,Communication Services,Advertising Agencies,1849
+1467,Industrials,Security & Protection Services,1850
+1468,Consumer Defensive,Education & Training Services,1851
+1469,Consumer Defensive,Food Distribution,1854
+1470,Industrials,Engineering & Construction,1855
+1471,Consumer Cyclical,Luxury Goods,1856
+1472,Industrials,Waste Management,1857
+1473,Healthcare,Medical Devices,1858
+1474,Communication Services,Entertainment,1859
+1475,Technology,Electronics & Computer Distribution,186
+1476,Communication Services,Advertising Agencies,1860
+1477,Consumer Cyclical,Specialty Retail,1861
+1478,Industrials,Engineering & Construction,1865
+1479,Industrials,Consulting Services,1867
+1480,Industrials,Electrical Equipment & Parts,1868
+1481,Consumer Cyclical,Restaurants,1869
+1482,Industrials,Specialty Industrial Machinery,187
+1483,Industrials,Engineering & Construction,1870
+1484,Consumer Defensive,Education & Training Services,1871
+1485,Consumer Cyclical,Auto & Truck Dealerships,1872
+1486,Healthcare,Biotechnology,1875
+1487,Consumer Defensive,Beverages—Brewers,1876
+1488,Healthcare,Biotechnology,1877
+1489,Energy,Thermal Coal,1878
+1490,Industrials,Specialty Business Services,1884
+1491,Basic Materials,Lumber & Wood Production,1885
+1492,Healthcare,Drug Manufacturers—Specialty & Generic,1889
+1493,Industrials,Metal Fabrication,1891
+1494,Basic Materials,Steel,1894
+1495,Communication Services,Internet Content & Information,1896
+1496,Technology,Information Technology Services,1900
+1497,Consumer Cyclical,Travel Services,1901
+1498,Industrials,Engineering & Construction,1903
+1499,Consumer Cyclical,Apparel Manufacturing,1906
+1500,Communication Services,Electronic Gaming & Multimedia,1909
+1501,Real Estate,Real Estate—Development,191
+1502,Consumer Cyclical,Footwear & Accessories,1910
+1503,Financial Services,Capital Markets,1911
+1504,Technology,Semiconductors,1912
+1505,Consumer Cyclical,Luxury Goods,1913
+1506,Communication Services,Advertising Agencies,1917
+1507,Industrials,Marine Shipping,1919
+1508,Industrials,Engineering & Construction,1920
+1509,Consumer Defensive,Household & Personal Products,1925
+1510,Consumer Cyclical,Lodging,193
+1511,Basic Materials,Specialty Chemicals,1932
+1512,Technology,Software—Application,1933
+1513,Consumer Defensive,Education & Training Services,1935
+1514,Consumer Defensive,Farm Products,1936
+1515,Industrials,Building Products & Equipment,1937
+1516,Basic Materials,Steel,1938
+1517,Utilities,Utilities—Regulated Gas,1940
+1518,Real Estate,Real Estate Services,1941
+1519,Healthcare,Medical Instruments & Supplies,1942
+1520,Basic Materials,Building Materials,1943
+1521,Financial Services,Financial Conglomerates,1945
+1522,Technology,Information Technology Services,1949
+1523,Basic Materials,Other Industrial Metals & Mining,195
+1524,Basic Materials,Specialty Chemicals,1950
+1525,Healthcare,Biotechnology,1952
+1526,Industrials,Engineering & Construction,1953
+1527,Industrials,Specialty Business Services,1955
+1528,Consumer Cyclical,Apparel Manufacturing,1957
+1529,Consumer Cyclical,Auto & Truck Dealerships,1959
+1530,Energy,Oil & Gas Equipment & Services,196
+1531,Industrials,Engineering & Construction,1960
+1532,Technology,Semiconductors,1967
+1533,Consumer Defensive,Education & Training Services,1969
+1534,Consumer Defensive,Farm Products,197
+1535,Real Estate,Real Estate Services,1971
+1536,Industrials,Engineering & Construction,1977
+1537,Consumer Cyclical,Restaurants,1978
+1538,Communication Services,Internet Content & Information,1980
+1539,Communication Services,Entertainment,1981
+1540,Industrials,Engineering & Construction,1987
+1541,Consumer Cyclical,Auto Parts,1991
+1542,Consumer Cyclical,Travel Services,1992
+1543,Communication Services,Advertising Agencies,1993
+1544,Technology,Communication Equipment,2000
+1545,Basic Materials,Paper & Paper Products,2002
+1546,Financial Services,Credit Services,2003
+1547,Communication Services,Broadcasting,2008
+1548,Consumer Cyclical,Lodging,201
+1549,Consumer Cyclical,Apparel Manufacturing,2011
+1550,Energy,Oil & Gas E&P,2012
+1551,Technology,Software—Application,2013
+1552,Industrials,Pollution & Treatment Controls,2014
+1553,Industrials,Engineering & Construction,2017
+1554,Real Estate,Real Estate—Development,2019
+1555,Real Estate,Real Estate Services,202
+1556,Communication Services,Electronic Gaming & Multimedia,2022
+1557,Consumer Defensive,Household & Personal Products,2023
+1558,Consumer Cyclical,Auto Parts,2025
+1559,Technology,Computer Hardware,2028
+1560,Consumer Cyclical,Luxury Goods,2033
+1561,Technology,Communication Equipment,2038
+1562,Financial Services,Asset Management,204
+1563,,Type,205
+1564,Financial Services,Credit Services,2051
+1565,Industrials,Integrated Freight & Logistics,2057
+1566,Energy,Oil & Gas Equipment & Services,206
+1567,Industrials,Metal Fabrication,2060
+1568,Financial Services,Banks—Regional,2066
+1569,Basic Materials,Aluminum,2078
+1570,Real Estate,Real Estate Services,2080
+1571,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2083
+1572,Industrials,Security & Protection Services,2086
+1573,Real Estate,Real Estate—Development,2088
+1574,Consumer Cyclical,Leisure,209
+1575,Healthcare,Biotechnology,2096
+1576,Industrials,Industrial Distribution,2098
+1577,Basic Materials,Other Precious Metals & Mining,2099
+1578,,Type,21
+1579,Consumer Cyclical,Footwear & Accessories,210
+1580,Consumer Cyclical,Internet Retail,2101
+1581,Real Estate,Real Estate Services,2107
+1582,,,2108
+1583,Industrials,Engineering & Construction,2110
+1584,Basic Materials,Steel,2112
+1585,Industrials,Engineering & Construction,2113
+1586,Industrials,Building Products & Equipment,2115
+1587,Real Estate,Real Estate—Development,2117
+1588,Real Estate,Real Estate—Development,2118
+1589,Healthcare,Medical Care Facilities,2120
+1590,Consumer Cyclical,Specialty Retail,2122
+1591,Communication Services,Entertainment,2125
+1592,Healthcare,Biotechnology,2126
+1593,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2127
+1594,Industrials,Trucking,2129
+1595,Industrials,Integrated Freight & Logistics,2130
+1596,Communication Services,Advertising Agencies,2131
+1597,Industrials,Engineering & Construction,2132
+1598,Basic Materials,Other Industrial Metals & Mining,2133
+1599,Healthcare,Medical Care Facilities,2135
+1600,Consumer Cyclical,Department Stores,2136
+1601,Financial Services,Banks—Regional,2139
+1602,Financial Services,Asset Management,214
+1603,Healthcare,Biotechnology,2142
+1604,Real Estate,Real Estate Services,2146
+1605,Consumer Cyclical,Internet Retail,2148
+1606,Industrials,Farm & Heavy Construction Machinery,2153
+1607,Real Estate,Real Estate—Diversified,2156
+1608,Healthcare,Health Information Services,2158
+1609,Healthcare,Health Information Services,2159
+1610,Healthcare,Medical Devices,2160
+1611,Healthcare,Pharmaceutical Retailers,2161
+1612,Real Estate,Real Estate Services,2168
+1613,Industrials,Railroads,2169
+1614,Financial Services,Capital Markets,217
+1615,Healthcare,Medical Care Facilities,2170
+1616,Energy,Oil & Gas Equipment & Services,2178
+1617,Healthcare,Biotechnology,2181
+1618,Real Estate,Real Estate—Development,2183
+1619,Industrials,Electrical Equipment & Parts,2188
+1620,Consumer Cyclical,Lodging,219
+1621,,,2193
+1622,,,22
+1623,Technology,Semiconductors,2203
+1624,Healthcare,Pharmaceutical Retailers,2211
+1625,Basic Materials,Building Materials,2212
+1626,Consumer Cyclical,Department Stores,2213
+1627,Consumer Defensive,Beverages—Non-Alcoholic,2218
+1628,Industrials,Engineering & Construction,2221
+1629,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2222
+1630,Consumer Cyclical,Textile Manufacturing,2223
+1631,Industrials,Staffing & Employment Services,2225
+1632,Industrials,Engineering & Construction,2227
+1633,Financial Services,Capital Markets,223
+1634,Industrials,Security & Protection Services,2239
+1635,Real Estate,Real Estate Services,224
+1636,Consumer Cyclical,Leisure,2255
+1637,Financial Services,Capital Markets,2263
+1638,Healthcare,Biotechnology,2269
+1639,Financial Services,Capital Markets,227
+1640,Real Estate,Real Estate Services,2278
+1641,Energy,Oil & Gas Integrated,228
+1642,Technology,Information Technology Services,2280
+1643,Real Estate,Real Estate—Development,2286
+1644,Real Estate,Real Estate—Development,2288
+1645,Real Estate,Real Estate Services,2292
+1646,Industrials,Engineering & Construction,2296
+1647,Consumer Cyclical,Apparel Manufacturing,2298
+1648,Consumer Cyclical,Textile Manufacturing,2299
+1649,Technology,Electronics & Computer Distribution,2302
+1650,Technology,Computer Hardware,2308
+1651,Consumer Cyclical,Leisure,2309
+1652,Financial Services,Capital Markets,231
+1653,Real Estate,Real Estate Services,2310
+1654,Financial Services,Asset Management,2312
+1655,Industrials,Aerospace & Defense,232
+1656,Basic Materials,Paper & Paper Products,2320
+1657,Industrials,Conglomerates,2322
+1658,Financial Services,Capital Markets,2323
+1659,Financial Services,Capital Markets,2324
+1660,Basic Materials,Other Industrial Metals & Mining,2326
+1661,Industrials,Conglomerates,2327
+1662,Real Estate,Real Estate—Diversified,2330
+1663,Technology,Semiconductor Equipment & Materials,2336
+1664,Consumer Cyclical,Auto Parts,2339
+1665,Consumer Cyclical,Leisure,234
+1666,Real Estate,Real Estate Services,2340
+1667,Technology,Electronic Components,2346
+1668,Real Estate,Real Estate—Diversified,2349
+1669,Financial Services,Capital Markets,235
+1670,Industrials,Engineering & Construction,2355
+1671,Technology,Consumer Electronics,2358
+1672,Consumer Defensive,Beverages—Brewers,236
+1673,Consumer Defensive,Discount Stores,2360
+1674,Technology,Electronic Components,2363
+1675,Communication Services,Entertainment,2366
+1676,Technology,Communication Equipment,2369
+1677,Consumer Defensive,Education & Training Services,2371
+1678,Real Estate,Real Estate—Diversified,2379
+1679,Consumer Cyclical,Apparel Manufacturing,238
+1680,Consumer Cyclical,"Furnishings, Fixtures & Appliances",2381
+1681,Communication Services,Publishing,2383
+1682,Healthcare,Medical Care Facilities,2389
+1683,Healthcare,Medical Devices,2393
+1684,Industrials,Specialty Industrial Machinery,2398
+1685,Consumer Cyclical,Apparel Manufacturing,2399
+1686,,,24
+1687,Communication Services,Electronic Gaming & Multimedia,2400
+1688,Healthcare,Pharmaceutical Retailers,241
+1689,Technology,Semiconductors,243
+1690,Consumer Cyclical,Department Stores,244
+1691,,,2448
+1692,Financial Services,Asset Management,245
+1693,Technology,Communication Equipment,248
+1694,Consumer Cyclical,Auto Parts,2488
+1695,Technology,Information Technology Services,250
+1696,Healthcare,Medical Devices,2500
+1697,Consumer Cyclical,Lodging,253
+1698,Healthcare,Drug Manufacturers—Specialty & Generic,2552
+1699,Consumer Cyclical,Luxury Goods,256
+1700,Real Estate,Real Estate—Diversified,2599
+1701,Energy,Oil & Gas Refining & Marketing,260
+1702,Basic Materials,Aluminum,2600
+1703,Real Estate,Real Estate—Development,2608
+1704,Technology,Communication Equipment,261
+1705,Healthcare,Biotechnology,2616
+1706,Real Estate,Real Estate—Development,262
+1707,Basic Materials,Other Industrial Metals & Mining,2623
+1708,Financial Services,Capital Markets,263
+1709,Consumer Cyclical,Footwear & Accessories,264
+1710,Consumer Cyclical,Travel Services,265
+1711,Communication Services,Electronic Gaming & Multimedia,2660
+1712,,Type,2662
+1713,,,2663
+1714,Consumer Cyclical,Apparel Manufacturing,2668
+1715,Technology,Software—Application,268
+1716,Financial Services,Capital Markets,2680
+1717,Industrials,Infrastructure Operations,269
+1718,Healthcare,Biotechnology,2696
+1719,Real Estate,Real Estate—Development,2699
+1720,Industrials,Conglomerates,2700
+1721,Technology,Software—Infrastructure,2708
+1722,Financial Services,Credit Services,2718
+1723,Industrials,Specialty Industrial Machinery,2727
+1724,Energy,Oil & Gas Refining & Marketing,2728
+1725,Consumer Defensive,Household & Personal Products,273
+1726,Basic Materials,Gold,274
+1727,Basic Materials,Coking Coal,276
+1728,Industrials,Engineering & Construction,2789
+1729,Financial Services,Financial Conglomerates,279
+1730,Consumer Cyclical,Luxury Goods,280
+1731,,,2804
+1732,,,2806
+1733,,,2807
+1734,,,2809
+1735,,,2812
+1736,Communication Services,Publishing,282
+1737,,,2820
+1738,,,2824
+1739,,,2825
+1740,,,2826
+1741,,,2827
+1742,,,2832
+1743,,,2834
+1744,,,2836
+1745,,,2840
+1746,,,2845
+1747,,,2848
+1748,Financial Services,Credit Services,2858
+1749,Healthcare,Medical Care Facilities,286
+1750,Industrials,Engineering & Construction,2863
+1751,Technology,Semiconductors,2878
+1752,Consumer Cyclical,Luxury Goods,2882
+1753,Industrials,Security & Protection Services,2885
+1754,Financial Services,Banks—Diversified,2888
+1755,Real Estate,Real Estate Services,2892
+1756,Financial Services,Financial Conglomerates,290
+1757,Financial Services,Asset Management,292
+1758,Industrials,Airlines,293
+1759,Consumer Cyclical,Apparel Manufacturing,294
+1760,Utilities,Utilities—Renewable,295
+1761,Basic Materials,Agricultural Inputs,297
+1762,,Type,2975
+1763,,Type,2979
+1764,,Type,2980
+1765,,Type,2981
+1766,,,2986
+1767,,Type,2989
+1768,Financial Services,Capital Markets,299
+1769,,,30
+1770,,,3005
+1771,,,3007
+1772,,,3015
+1773,,,3016
+1774,,,3019
+1775,Communication Services,Electronic Gaming & Multimedia,302
+1776,,,3020
+1777,,,3023
+1778,,,3024
+1779,,,3031
+1780,,,3032
+1781,,,3033
+1782,,,3036
+1783,,,3040
+1784,,,3043
+1785,,,3047
+1786,,,3048
+1787,,,3053
+1788,,,3055
+1789,Industrials,Railroads,306
+1790,,,3065
+1791,,,3067
+1792,,,3071
+1793,,,3072
+1794,,,3073
+1795,,,3079
+1796,Consumer Cyclical,Leisure,308
+1797,,,3081
+1798,,,3082
+1799,,,3087
+1800,,,3088
+1801,Industrials,Specialty Business Services,309
+1802,,,3091
+1803,,,3092
+1804,,,3093
+1805,,Type,3096
+1806,,,3097
+1807,,,3099
+1808,Financial Services,Asset Management,310
+1809,,,3109
+1810,Consumer Cyclical,Apparel Manufacturing,311
+1811,,,3110
+1812,,,3118
+1813,,,3122
+1814,,,3127
+1815,Real Estate,Real Estate Services,313
+1816,,,3130
+1817,,,3147
+1818,Communication Services,Telecom Services,315
+1819,,,3157
+1820,,,3163
+1821,,,3166
+1822,Industrials,Aerospace & Defense,317
+1823,,,3173
+1824,,,3175
+1825,Technology,Information Technology Services,318
+1826,,,3181
+1827,,,3182
+1828,,,3186
+1829,,,3187
+1830,,,3191
+1831,,,3197
+1832,,,3198
+1833,Communication Services,Entertainment,326
+1834,Technology,Consumer Electronics,328
+1835,Financial Services,Capital Markets,329
+1836,,,33
+1837,Consumer Cyclical,Apparel Retail,330
+1838,Industrials,Building Products & Equipment,3300
+1839,Real Estate,Real Estate—Development,3301
+1840,Energy,Oil & Gas Equipment & Services,3303
+1841,Industrials,Building Products & Equipment,3313
+1842,Basic Materials,Specialty Chemicals,3318
+1843,Energy,Oil & Gas Refining & Marketing,332
+1844,Industrials,Engineering & Construction,3321
+1845,Consumer Cyclical,Apparel Manufacturing,3322
+1846,Consumer Cyclical,Apparel Manufacturing,333
+1847,Basic Materials,Gold,3330
+1848,Consumer Defensive,Household & Personal Products,3332
+1849,Energy,Oil & Gas Equipment & Services,3337
+1850,Technology,Electronic Components,334
+1851,Basic Materials,Chemicals,3344
+1852,Industrials,Specialty Industrial Machinery,3348
+1853,Basic Materials,Chemicals,336
+1854,Consumer Cyclical,Department Stores,3368
+1855,Consumer Cyclical,Luxury Goods,3389
+1856,Financial Services,Asset Management,339
+1857,Healthcare,Pharmaceutical Retailers,3390
+1858,Energy,Oil & Gas E&P,3395
+1859,Consumer Cyclical,Apparel Manufacturing,3398
+1860,Industrials,Integrated Freight & Logistics,3399
+1861,Basic Materials,Gold,340
+1862,Energy,Oil & Gas Refining & Marketing,342
+1863,Communication Services,Publishing,343
+1864,Energy,Oil & Gas Integrated,346
+1865,Consumer Cyclical,Leisure,348
+1866,Industrials,Marine Shipping,351
+1867,Real Estate,Real Estate Services,352
+1868,Energy,Oil & Gas Equipment & Services,353
+1869,Financial Services,Capital Markets,356
+1870,Industrials,Airports & Air Services,357
+1871,Consumer Defensive,Beverages—Non-Alcoholic,359
+1872,,,36
+1873,Consumer Cyclical,Auto & Truck Dealerships,360
+1874,Communication Services,Internet Content & Information,3601
+1875,Consumer Cyclical,Leisure,361
+1876,Real Estate,Real Estate—Development,3616
+1877,Utilities,Utilities—Regulated Electric,362
+1878,Financial Services,Financial Conglomerates,3623
+1879,Industrials,Specialty Business Services,3626
+1880,Industrials,Specialty Industrial Machinery,3628
+1881,Technology,Computer Hardware,3638
+1882,Real Estate,Real Estate—Development,3639
+1883,,Type,364
+1884,Industrials,Specialty Industrial Machinery,365
+1885,Consumer Cyclical,Auto Parts,3663
+1886,Consumer Cyclical,Restaurants,3666
+1887,Industrials,Engineering & Construction,368
+1888,Technology,Information Technology Services,3680
+1889,Healthcare,Biotechnology,3681
+1890,Industrials,Marine Shipping,3683
+1891,Healthcare,Medical Care Facilities,3689
+1892,Consumer Cyclical,Internet Retail,3690
+1893,Healthcare,Drug Manufacturers—Specialty & Generic,3692
+1894,,,37
+1895,Consumer Cyclical,Specialty Retail,370
+1896,Communication Services,Internet Content & Information,3700
+1897,Consumer Cyclical,Residential Construction,3708
+1898,Industrials,Waste Management,3718
+1899,Financial Services,Capital Markets,372
+1900,Technology,Software—Application,3738
+1901,Consumer Cyclical,Apparel Retail,375
+1902,Financial Services,Capital Markets,376
+1903,Basic Materials,Specialty Chemicals,377
+1904,Technology,Software—Infrastructure,3773
+1905,Consumer Cyclical,Textile Manufacturing,3778
+1906,Industrials,Electrical Equipment & Parts,378
+1907,Financial Services,Credit Services,379
+1908,Communication Services,Electronic Gaming & Multimedia,3798
+1909,,,38
+1910,Consumer Cyclical,Home Improvement Retail,380
+1911,Technology,Solar,3800
+1912,,,381
+1913,Consumer Cyclical,Footwear & Accessories,3813
+1914,Industrials,Metal Fabrication,3816
+1915,Industrials,Engineering & Construction,3822
+1916,Healthcare,Medical Care Facilities,383
+1917,Consumer Cyclical,Leisure,3830
+1918,Basic Materials,Other Industrial Metals & Mining,3833
+1919,Healthcare,Drug Manufacturers—Specialty & Generic,3839
+1920,Consumer Cyclical,Apparel Retail,3860
+1921,Healthcare,Medical Care Facilities,3869
+1922,Industrials,Specialty Industrial Machinery,387
+1923,Industrials,Engineering & Construction,3878
+1924,Financial Services,Financial Data & Stock Exchanges,388
+1925,Consumer Cyclical,Leisure,3882
+1926,Consumer Defensive,Packaged Foods,3889
+1927,Consumer Defensive,Beverages—Wineries & Distilleries,389
+1928,Industrials,Consulting Services,3893
+1929,,,39
+1930,Financial Services,Credit Services,3903
+1931,Financial Services,Capital Markets,3908
+1932,Communication Services,Entertainment,391
+1933,Real Estate,Real Estate Services,3913
+1934,Industrials,Electrical Equipment & Parts,3919
+1935,Industrials,Engineering & Construction,3928
+1936,Financial Services,Capital Markets,3938
+1937,Basic Materials,Other Industrial Metals & Mining,3939
+1938,Consumer Cyclical,Internet Retail,395
+1939,Consumer Cyclical,"Furnishings, Fixtures & Appliances",396
+1940,Financial Services,Credit Services,3963
+1941,Financial Services,Financial Conglomerates,397
+1942,Consumer Defensive,Education & Training Services,3978
+1943,Industrials,Waste Management,3989
+1944,Consumer Defensive,Household & Personal Products,399
+1945,Real Estate,Real Estate Services,3992
+1946,Consumer Defensive,Packaged Foods,3999
+1947,,,40
+1948,Technology,Electronics & Computer Distribution,400
+1949,Healthcare,Medical Distribution,401
+1950,Consumer Cyclical,Packaging & Containers,403
+1951,Real Estate,Real Estate Services,410
+1952,Financial Services,Capital Markets,412
+1953,Consumer Cyclical,Leisure,413
+1954,Financial Services,Banks—Regional,416
+1955,Consumer Cyclical,Luxury Goods,417
+1956,Technology,Software—Application,418
+1957,Consumer Cyclical,Leisure,419
+1958,,,42
+1959,Consumer Cyclical,Recreational Vehicles,422
+1960,Industrials,Conglomerates,426
+1961,Financial Services,Capital Markets,428
+1962,Financial Services,Capital Markets,430
+1963,Industrials,Conglomerates,431
+1964,Real Estate,Real Estate Services,432
+1965,Basic Materials,Other Industrial Metals & Mining,433
+1966,Communication Services,Electronic Gaming & Multimedia,434
+1967,Technology,Solar,438
+1968,Industrials,Aerospace & Defense,439
+1969,Consumer Cyclical,Luxury Goods,442
+1970,Consumer Cyclical,Luxury Goods,444
+1971,Technology,Consumer Electronics,449
+1972,Utilities,Utilities—Renewable,451
+1973,Real Estate,Real Estate—Development,456
+1974,Consumer Cyclical,Apparel Manufacturing,458
+1975,Real Estate,Real Estate Services,459
+1976,Consumer Defensive,Household & Personal Products,464
+1977,Technology,Information Technology Services,465
+1978,Energy,Oil & Gas E&P,467
+1979,Technology,Electronics & Computer Distribution,471
+1980,Consumer Defensive,Beverages—Wineries & Distilleries,472
+1981,Industrials,Conglomerates,474
+1982,Technology,Solar,475
+1983,Consumer Cyclical,Recreational Vehicles,476
+1984,Consumer Cyclical,Auto Parts,479
+1985,,,48
+1986,Technology,Communication Equipment,482
+1987,Communication Services,Electronic Gaming & Multimedia,484
+1988,Real Estate,Real Estate—Development,485
+1989,Basic Materials,Aluminum,486
+1990,Consumer Cyclical,Travel Services,487
+1991,Real Estate,Real Estate Services,488
+1992,Communication Services,Entertainment,491
+1993,Consumer Cyclical,Specialty Retail,493
+1994,Real Estate,Real Estate Services,495
+1995,Real Estate,Real Estate—Development,496
+1996,Industrials,Engineering & Construction,498
+1997,Real Estate,Real Estate Services,499
+1998,,Type,5
+1999,Industrials,Integrated Freight & Logistics,500
+2000,Healthcare,Drug Manufacturers—Specialty & Generic,503
+2001,Basic Materials,Copper,505
+2002,Financial Services,Credit Services,508
+2003,Basic Materials,Agricultural Inputs,509
+2004,,Type,51
+2005,Financial Services,Capital Markets,510
+2006,Consumer Cyclical,Luxury Goods,513
+2007,Technology,Electronic Components,515
+2008,Real Estate,Real Estate Services,519
+2009,Basic Materials,Other Industrial Metals & Mining,521
+2010,Communication Services,Telecom Services,524
+2011,Consumer Cyclical,Auto & Truck Dealerships,526
+2012,Utilities,Utilities—Renewable,527
+2013,Consumer Defensive,Beverages—Wineries & Distilleries,530
+2014,Consumer Cyclical,"Furnishings, Fixtures & Appliances",531
+2015,Technology,Electronic Components,532
+2016,Consumer Cyclical,Textile Manufacturing,539
+2017,Real Estate,Real Estate—Development,542
+2018,Industrials,Specialty Business Services,544
+2019,Communication Services,Entertainment,547
+2020,,,55
+2021,Communication Services,Advertising Agencies,550
+2022,Energy,Oil & Gas Equipment & Services,554
+2023,Consumer Cyclical,Gambling,555
+2024,Industrials,Pollution & Treatment Controls,556
+2025,Consumer Cyclical,Lodging,557
+2026,Consumer Cyclical,Lodging,559
+2027,Real Estate,Real Estate Services,565
+2028,Energy,Oil & Gas Refining & Marketing,567
+2029,Energy,Oil & Gas Equipment & Services,568
+2030,Communication Services,Entertainment,571
+2031,Financial Services,Capital Markets,572
+2032,Healthcare,Pharmaceutical Retailers,574
+2033,Financial Services,Asset Management,575
+2034,Industrials,Engineering & Construction,577
+2035,Energy,Thermal Coal,578
+2036,,,58
+2037,Consumer Cyclical,Resorts & Casinos,582
+2038,Real Estate,Real Estate Services,583
+2039,Communication Services,Entertainment,585
+2040,Industrials,Engineering & Construction,589
+2041,Consumer Cyclical,Apparel Retail,592
+2042,Real Estate,Real Estate Services,593
+2043,Technology,Software—Application,596
+2044,,,60
+2045,Energy,Oil & Gas Equipment & Services,600
+2046,Basic Materials,Other Industrial Metals & Mining,601
+2047,Consumer Cyclical,Department Stores,602
+2048,Energy,Oil & Gas Refining & Marketing,603
+2049,Technology,Electronics & Computer Distribution,6036
+2050,Financial Services,Credit Services,605
+2051,Financial Services,Financial Conglomerates,6058
+2052,Financial Services,Insurance—Property & Casualty,6060
+2053,Industrials,Specialty Industrial Machinery,607
+2054,Healthcare,Medical Care Facilities,6078
+2055,Industrials,Engineering & Construction,6080
+2056,Technology,Electronic Components,6088
+2057,Basic Materials,Chemicals,609
+2058,Real Estate,Real Estate Services,6093
+2059,,Type,61
+2060,Industrials,Staffing & Employment Services,6100
+2061,Industrials,Engineering & Construction,611
+2062,Consumer Cyclical,Apparel Retail,6116
+2063,Industrials,Marine Shipping,6117
+2064,Healthcare,Medical Devices,6118
+2065,Financial Services,Asset Management,612
+2066,Industrials,Engineering & Construction,6128
+2067,Financial Services,Financial Conglomerates,613
+2068,Technology,Communication Equipment,6133
+2069,Utilities,Utilities—Regulated Water,6136
+2070,Real Estate,Real Estate Services,616
+2071,Healthcare,Biotechnology,6160
+2072,Financial Services,Insurance—Property & Casualty,6161
+2073,Technology,Communication Equipment,6168
+2074,Real Estate,Real Estate—Development,618
+2075,Industrials,Engineering & Construction,6182
+2076,Consumer Defensive,Packaged Foods,6183
+2077,Healthcare,Drug Manufacturers—Specialty & Generic,6185
+2078,Consumer Cyclical,Specialty Retail,6188
+2079,Industrials,Engineering & Construction,6189
+2080,Financial Services,Capital Markets,619
+2081,Basic Materials,Building Materials,6193
+2082,Consumer Cyclical,Internet Retail,620
+2083,Basic Materials,Gold,621
+2084,Financial Services,Capital Markets,622
+2085,,,627
+2086,Financial Services,Credit Services,628
+2087,Industrials,Specialty Business Services,629
+2088,,,63
+2089,Industrials,Engineering & Construction,630
+2090,Energy,Oil & Gas E&P,632
+2091,Technology,Communication Equipment,633
+2092,Basic Materials,Other Industrial Metals & Mining,637
+2093,Technology,Consumer Electronics,638
+2094,Consumer Cyclical,Apparel Manufacturing,643
+2095,,Type,645
+2096,Industrials,Waste Management,646
+2097,,,65
+2098,Energy,Oil & Gas E&P,650
+2099,Industrials,Specialty Industrial Machinery,651
+2100,Consumer Cyclical,Specialty Retail,653
+2101,Consumer Cyclical,Restaurants,657
+2102,Basic Materials,Chemicals,660
+2103,Healthcare,Diagnostics & Research,6606
+2104,Basic Materials,Copper,661
+2105,Healthcare,Medical Care Facilities,6618
+2106,Industrials,Conglomerates,663
+2107,Financial Services,Asset Management,666
+2108,Real Estate,Real Estate—Diversified,6666
+2109,Real Estate,Real Estate Services,6668
+2110,Real Estate,Real Estate—Development,6677
+2111,Financial Services,Credit Services,668
+2112,Technology,Consumer Electronics,6690
+2113,Industrials,Airlines,670
+2114,Healthcare,Medical Distribution,673
+2115,Real Estate,Real Estate Services,674
+2116,Consumer Cyclical,Footwear & Accessories,676
+2117,Consumer Cyclical,Leisure,678
+2118,,Type,68
+2119,Communication Services,Entertainment,680
+2120,Industrials,Waste Management,6805
+2121,Energy,Oil & Gas Midstream,681
+2122,Industrials,Waste Management,6812
+2123,Industrials,Engineering & Construction,6816
+2124,Healthcare,Health Information Services,6819
+2125,Consumer Defensive,Farm Products,682
+2126,Utilities,Utilities—Regulated Gas,6828
+2127,Industrials,Engineering & Construction,6829
+2128,Communication Services,Advertising Agencies,6833
+2129,Healthcare,Biotechnology,6855
+2130,Utilities,Utilities—Renewable,686
+2131,Communication Services,Electronic Gaming & Multimedia,6860
+2132,Financial Services,Credit Services,6866
+2133,Industrials,Engineering & Construction,687
+2134,Financial Services,Capital Markets,6877
+2135,Financial Services,Credit Services,6878
+2136,Consumer Cyclical,Leisure,6880
+2137,Consumer Cyclical,Travel Services,6882
+2138,Financial Services,Capital Markets,6886
+2139,Industrials,Infrastructure Operations,6888
+2140,Energy,Oil & Gas E&P,689
+2141,Consumer Defensive,Household & Personal Products,6893
+2142,Communication Services,Electronic Gaming & Multimedia,6899
+2143,,,69
+2144,Healthcare,Biotechnology,690
+2145,Real Estate,Real Estate—Development,6900
+2146,Industrials,Electrical Equipment & Parts,6908
+2147,Basic Materials,Building Materials,691
+2148,Consumer Cyclical,Leisure,6918
+2149,Industrials,Staffing & Employment Services,6919
+2150,Consumer Cyclical,Auto Parts,6928
+2151,Communication Services,Electronic Gaming & Multimedia,6933
+2152,Real Estate,Real Estate Services,6958
+2153,Consumer Cyclical,Personal Services,6966
+2154,Real Estate,Real Estate—Development,6968
+2155,Consumer Defensive,Tobacco,6969
+2156,Healthcare,Biotechnology,6978
+2157,Communication Services,Advertising Agencies,6988
+2158,Real Estate,Real Estate Services,6989
+2159,Industrials,Rental & Leasing Services,699
+2160,Consumer Defensive,Household & Personal Products,6993
+2161,Healthcare,Biotechnology,6996
+2162,Healthcare,Biotechnology,6998
+2163,Real Estate,Real Estate Services,6999
+2164,,Type,7
+2165,,Type,70
+2166,Energy,Thermal Coal,702
+2167,Consumer Cyclical,Restaurants,703
+2168,Energy,Thermal Coal,704
+2169,Basic Materials,Agricultural Inputs,706
+2170,Consumer Cyclical,Textile Manufacturing,707
+2171,Healthcare,Medical Care Facilities,708
+2172,Technology,Solar,712
+2173,Consumer Cyclical,"Furnishings, Fixtures & Appliances",713
+2174,Real Estate,Real Estate Services,715
+2175,Consumer Cyclical,Packaging & Containers,716
+2176,Financial Services,Capital Markets,717
+2177,Healthcare,Medical Distribution,718
+2178,,,72
+2179,Consumer Cyclical,Auto & Truck Dealerships,720
+2180,,,7205
+2181,Financial Services,Asset Management,721
+2182,,,7221
+2183,,,7228
+2184,,Type,723
+2185,,,7230
+2186,,,7231
+2187,Industrials,Electrical Equipment & Parts,724
+2188,,,7248
+2189,Industrials,Electrical Equipment & Parts,725
+2190,Real Estate,Real Estate—Development,726
+2191,Real Estate,Real Estate Services,727
+2192,,,7272
+2193,,Type,729
+2194,,,73
+2195,Financial Services,Credit Services,730
+2196,Basic Materials,Paper & Paper Products,731
+2197,,,7312
+2198,Technology,Consumer Electronics,732
+2199,,,7321
+2200,,,7322
+2201,,,7328
+2202,,,7331
+2203,,,7336
+2204,,,7348
+2205,Financial Services,Credit Services,736
+2206,,,7362
+2207,Communication Services,Advertising Agencies,745
+2208,Real Estate,Real Estate—Development,747
+2209,Technology,Solar,750
+2210,,,7500
+2211,Technology,Consumer Electronics,751
+2212,Real Estate,Real Estate—Development,755
+2213,Consumer Defensive,Beverages—Non-Alcoholic,756
+2214,Technology,Solar,757
+2215,Basic Materials,Other Industrial Metals & Mining,758
+2216,,,76
+2217,Real Estate,Real Estate—Diversified,760
+2218,Financial Services,Credit Services,764
+2219,Consumer Cyclical,Leisure,765
+2220,Financial Services,Credit Services,766
+2221,Financial Services,Credit Services,767
+2222,Financial Services,Asset Management,768
+2223,Basic Materials,Other Industrial Metals & Mining,769
+2224,,,770
+2225,Communication Services,Internet Content & Information,772
+2226,Consumer Cyclical,"Furnishings, Fixtures & Appliances",776
+2227,Consumer Cyclical,Travel Services,780
+2228,Industrials,Engineering & Construction,784
+2229,Consumer Cyclical,Apparel Manufacturing,787
+2230,Consumer Cyclical,Luxury Goods,789
+2231,,,79
+2232,Basic Materials,Paper & Paper Products,794
+2233,Communication Services,Electronic Gaming & Multimedia,797
+2234,,Type,80
+2235,Industrials,Conglomerates,800
+2236,Financial Services,Credit Services,8001
+2237,Basic Materials,Lumber & Wood Production,8003
+2238,Consumer Cyclical,"Furnishings, Fixtures & Appliances",8005
+2239,Communication Services,Publishing,8006
+2240,Energy,Oil & Gas Refining & Marketing,8007
+2241,Technology,Electronics & Computer Distribution,8009
+2242,Energy,Oil & Gas E&P,8011
+2243,,,8013
+2244,Technology,Software—Infrastructure,8017
+2245,Technology,Software—Application,8018
+2246,Financial Services,Credit Services,8019
+2247,Technology,Software—Application,802
+2248,Industrials,Marine Shipping,8020
+2249,Industrials,Engineering & Construction,8021
+2250,Industrials,Conglomerates,8022
+2251,Industrials,Engineering & Construction,8023
+2252,Financial Services,Asset Management,8025
+2253,Consumer Cyclical,Luxury Goods,8026
+2254,Industrials,Metal Fabrication,8027
+2255,Basic Materials,Other Industrial Metals & Mining,8028
+2256,Financial Services,Financial Conglomerates,8029
+2257,Basic Materials,Steel,803
+2258,Real Estate,Real Estate—Development,8030
+2259,Industrials,Staffing & Employment Services,8031
+2260,Consumer Cyclical,Leisure,8032
+2261,,,8035
+2262,Technology,Software—Application,8036
+2263,Healthcare,Diagnostics & Research,8037
+2264,Industrials,Engineering & Construction,8039
+2265,Financial Services,Capital Markets,804
+2266,Consumer Cyclical,Apparel Manufacturing,8041
+2267,Industrials,Staffing & Employment Services,8042
+2268,Technology,Communication Equipment,8043
+2269,Technology,Electronics & Computer Distribution,8045
+2270,Industrials,Integrated Freight & Logistics,8047
+2271,Technology,Software—Application,8048
+2272,Technology,Information Technology Services,8050
+2273,Industrials,Security & Protection Services,8051
+2274,Consumer Cyclical,Resorts & Casinos,8052
+2275,Consumer Defensive,Education & Training Services,8055
+2276,Consumer Cyclical,Restaurants,8056
+2277,Consumer Defensive,Beverages—Wineries & Distilleries,8057
+2278,Industrials,Engineering & Construction,8059
+2279,Technology,Software—Application,8060
+2280,Consumer Cyclical,Travel Services,8063
+2281,Technology,Semiconductors,8066
+2282,Real Estate,Real Estate Services,8067
+2283,Consumer Cyclical,Travel Services,8069
+2284,Technology,Electronic Components,8070
+2285,Financial Services,Credit Services,8071
+2286,Financial Services,Capital Markets,8072
+2287,Communication Services,Entertainment,8075
+2288,Technology,Software—Application,8076
+2289,Communication Services,Entertainment,8078
+2290,Consumer Defensive,Grocery Stores,8079
+2291,Industrials,Industrial Distribution,8080
+2292,Technology,Information Technology Services,8081
+2293,Communication Services,Entertainment,8082
+2294,Technology,Software—Application,8083
+2295,Consumer Cyclical,Internet Retail,8086
+2296,Communication Services,Entertainment,8087
+2297,Financial Services,Asset Management,8088
+2298,Consumer Defensive,Food Distribution,8089
+2299,Consumer Defensive,Packaged Foods,809
+2300,Financial Services,Credit Services,8090
+2301,Communication Services,Advertising Agencies,8091
+2302,Technology,Communication Equipment,8092
+2303,Communication Services,Advertising Agencies,8093
+2304,Consumer Cyclical,Travel Services,8095
+2305,,,8096
+2306,Financial Services,Asset Management,810
+2307,Technology,Information Technology Services,8100
+2308,Consumer Cyclical,"Furnishings, Fixtures & Appliances",8101
+2309,Technology,Information Technology Services,8103
+2310,Technology,Electronics & Computer Distribution,8106
+2311,Consumer Cyclical,Personal Services,8108
+2312,Financial Services,Insurance Brokers,8109
+2313,Technology,Solar,8111
+2314,Communication Services,Advertising Agencies,8112
+2315,Industrials,Specialty Industrial Machinery,8115
+2316,Consumer Cyclical,Specialty Retail,8116
+2317,Energy,Oil & Gas Midstream,8117
+2318,Consumer Cyclical,"Furnishings, Fixtures & Appliances",8118
+2319,Technology,Software—Application,8119
+2320,Financial Services,Capital Markets,812
+2321,Consumer Defensive,Farm Products,8120
+2322,Communication Services,Advertising Agencies,8121
+2323,Financial Services,Capital Markets,8123
+2324,Consumer Cyclical,"Furnishings, Fixtures & Appliances",8125
+2325,Consumer Cyclical,Auto & Truck Dealerships,8126
+2326,Industrials,Engineering & Construction,8128
+2327,Communication Services,Advertising Agencies,8130
+2328,Technology,Software—Application,8131
+2329,Energy,Oil & Gas Refining & Marketing,8132
+2330,Industrials,Metal Fabrication,8133
+2331,Consumer Cyclical,Auto Parts,8135
+2332,Industrials,Electrical Equipment & Parts,8136
+2333,Industrials,Electrical Equipment & Parts,8137
+2334,Basic Materials,Chemicals,8139
+2335,Basic Materials,Steel,8140
+2336,Healthcare,Medical Care Facilities,8143
+2337,Consumer Defensive,Beverages—Wineries & Distilleries,8146
+2338,Technology,Consumer Electronics,8147
+2339,Technology,Information Technology Services,8148
+2340,Consumer Cyclical,Luxury Goods,815
+2341,Technology,Electronic Components,8150
+2342,Basic Materials,Specialty Chemicals,8151
+2343,Industrials,Industrial Distribution,8152
+2344,Communication Services,Advertising Agencies,8153
+2345,Real Estate,Real Estate—Development,8155
+2346,Technology,Software—Application,8156
+2347,Healthcare,Biotechnology,8158
+2348,Technology,Computer Hardware,8159
+2349,Consumer Defensive,Education & Training Services,8160
+2350,,,8161
+2351,Financial Services,Capital Markets,8162
+2352,Consumer Cyclical,Specialty Retail,8163
+2353,Industrials,Conglomerates,8166
+2354,Communication Services,Telecom Services,8167
+2355,Financial Services,Capital Markets,8168
+2356,Industrials,Pollution & Treatment Controls,8169
+2357,,,8170
+2358,Technology,Electronics & Computer Distribution,8171
+2359,Communication Services,Entertainment,8172
+2360,Industrials,Consulting Services,8173
+2361,Communication Services,Entertainment,8175
+2362,Consumer Defensive,Household & Personal Products,8176
+2363,Technology,Information Technology Services,8178
+2364,Consumer Defensive,Packaged Foods,8179
+2365,Technology,Software—Infrastructure,818
+2366,Real Estate,Real Estate Services,8181
+2367,Basic Materials,Lumber & Wood Production,8186
+2368,Consumer Cyclical,Footwear & Accessories,8187
+2369,Industrials,Engineering & Construction,8188
+2370,Basic Materials,Agricultural Inputs,8189
+2371,Basic Materials,Lumber & Wood Production,8191
+2372,Financial Services,Capital Markets,8192
+2373,Financial Services,Capital Markets,8193
+2374,Consumer Cyclical,Apparel Manufacturing,8195
+2375,Industrials,Waste Management,8196
+2376,Consumer Cyclical,Gambling,8198
+2377,,Type,82
+2378,Consumer Defensive,Household & Personal Products,8200
+2379,Industrials,Waste Management,8201
+2380,Communication Services,Advertising Agencies,8202
+2381,Industrials,Specialty Business Services,8203
+2382,Technology,Software—Application,8205
+2383,Industrials,Specialty Business Services,8206
+2384,Industrials,Engineering & Construction,8208
+2385,Financial Services,Capital Markets,821
+2386,Financial Services,Capital Markets,8210
+2387,Consumer Cyclical,Textile Manufacturing,8211
+2388,Consumer Cyclical,Restaurants,8213
+2389,Industrials,Engineering & Construction,8216
+2390,Industrials,Engineering & Construction,8217
+2391,Technology,Scientific & Technical Instruments,8218
+2392,Consumer Cyclical,Luxury Goods,8219
+2393,Communication Services,Entertainment,8220
+2394,,,8222
+2395,Healthcare,Medical Care Facilities,8225
+2396,Financial Services,Capital Markets,8226
+2397,Technology,Communication Equipment,8227
+2398,Consumer Cyclical,Leisure,8228
+2399,Technology,Information Technology Services,8229
+2400,Real Estate,REIT—Retail,823
+2401,,,8231
+2402,Consumer Cyclical,Restaurants,8232
+2403,Consumer Cyclical,Lodging,8237
+2404,Communication Services,Advertising Agencies,8238
+2405,Financial Services,Credit Services,8239
+2406,Consumer Defensive,Packaged Foods,8241
+2407,Real Estate,Real Estate Services,8242
+2408,Technology,Communication Equipment,8245
+2409,Industrials,Engineering & Construction,8246
+2410,Healthcare,Diagnostics & Research,8247
+2411,Technology,Electronic Components,8249
+2412,Consumer Cyclical,Department Stores,825
+2413,Energy,Thermal Coal,8250
+2414,Technology,Software—Application,8255
+2415,Technology,Semiconductor Equipment & Materials,8257
+2416,Basic Materials,Specialty Chemicals,8258
+2417,Industrials,Engineering & Construction,8259
+2418,Industrials,Staffing & Employment Services,8260
+2419,Industrials,Engineering & Construction,8262
+2420,Consumer Cyclical,Luxury Goods,8265
+2421,,Type,8266
+2422,Communication Services,Electronic Gaming & Multimedia,8267
+2423,Industrials,Engineering & Construction,8268
+2424,Consumer Defensive,Packaged Foods,8269
+2425,Basic Materials,Chemicals,827
+2426,Energy,Oil & Gas Refining & Marketing,8270
+2427,Real Estate,Real Estate Services,8271
+2428,,Type,8272
+2429,Industrials,Engineering & Construction,8275
+2430,Basic Materials,Lumber & Wood Production,8277
+2431,Technology,Software—Application,8279
+2432,Consumer Defensive,Beverages—Wineries & Distilleries,828
+2433,Communication Services,Entertainment,8280
+2434,Consumer Defensive,Household & Personal Products,8281
+2435,Communication Services,Electronic Gaming & Multimedia,8282
+2436,Consumer Cyclical,Auto Parts,8283
+2437,,,82832
+2438,,,82834
+2439,,,82836
+2440,Consumer Cyclical,Footwear & Accessories,8285
+2441,Technology,Communication Equipment,8286
+2442,Technology,Communication Equipment,8287
+2443,Technology,Software—Application,8290
+2444,Consumer Cyclical,Packaging & Containers,8291
+2445,Industrials,Integrated Freight & Logistics,8292
+2446,Industrials,Staffing & Employment Services,8293
+2447,Financial Services,Capital Markets,8295
+2448,Consumer Cyclical,Personal Services,8296
+2449,Consumer Cyclical,Apparel Manufacturing,8297
+2450,Basic Materials,Gold,8299
+2451,Industrials,Engineering & Construction,830
+2452,Consumer Cyclical,Restaurants,8300
+2453,,,83005
+2454,Consumer Defensive,Beverages—Wineries & Distilleries,8301
+2455,,,83031
+2456,Industrials,Engineering & Construction,8305
+2457,,,83053
+2458,Healthcare,Medical Care Facilities,8307
+2459,,,83079
+2460,Consumer Cyclical,Resorts & Casinos,8308
+2461,,,83081
+2462,Industrials,Waste Management,8309
+2463,,,83093
+2464,Industrials,Integrated Freight & Logistics,8310
+2465,Technology,Electronic Components,8311
+2466,,,83118
+2467,,,83122
+2468,,,83127
+2469,Financial Services,Asset Management,8313
+2470,,,83130
+2471,,,83147
+2472,Industrials,Security & Protection Services,8315
+2473,Industrials,Engineering & Construction,8316
+2474,,,83168
+2475,Industrials,Specialty Business Services,8317
+2476,,,83186
+2477,,,83197
+2478,Industrials,Waste Management,8320
+2479,Industrials,Engineering & Construction,8321
+2480,Industrials,Specialty Business Services,8325
+2481,Utilities,Utilities—Renewable,8326
+2482,Consumer Cyclical,Auto Parts,8328
+2483,Healthcare,Drug Manufacturers—Specialty & Generic,8329
+2484,Technology,Electronic Components,833
+2485,Basic Materials,Other Industrial Metals & Mining,8331
+2486,Communication Services,Telecom Services,8337
+2487,Consumer Defensive,Packaged Foods,834
+2488,Financial Services,Capital Markets,8340
+2489,Industrials,Consulting Services,8341
+2490,Energy,Oil & Gas Refining & Marketing,8347
+2491,Industrials,Integrated Freight & Logistics,8348
+2492,Industrials,Building Products & Equipment,8349
+2493,Financial Services,Capital Markets,8350
+2494,,Type,8351
+2495,Technology,Software—Application,8353
+2496,Industrials,Engineering & Construction,8356
+2497,Healthcare,Medical Care Facilities,8357
+2498,Industrials,Engineering & Construction,8360
+2499,Consumer Defensive,Packaged Foods,8362
+2500,Consumer Defensive,Education & Training Services,8363
+2501,,,8365
+2502,Industrials,Engineering & Construction,8366
+2503,Consumer Cyclical,Restaurants,8367
+2504,Communication Services,Entertainment,8368
+2505,Industrials,Business Equipment & Supplies,8370
+2506,Industrials,Engineering & Construction,8373
+2507,,,8375
+2508,Consumer Cyclical,Textile Manufacturing,8377
+2509,Industrials,Security & Protection Services,8379
+2510,Consumer Cyclical,Packaging & Containers,8383
+2511,Industrials,Specialty Business Services,8385
+2512,Industrials,Specialty Business Services,8391
+2513,Consumer Cyclical,"Furnishings, Fixtures & Appliances",8392
+2514,,,8395
+2515,,,84
+2516,Industrials,Farm & Heavy Construction Machinery,840
+2517,Consumer Cyclical,Gambling,8400
+2518,Communication Services,Advertising Agencies,8401
+2519,Basic Materials,Steel,8402
+2520,Communication Services,Advertising Agencies,8403
+2521,Consumer Defensive,Packaged Foods,841
+2522,Consumer Cyclical,Restaurants,8412
+2523,Consumer Defensive,Food Distribution,8413
+2524,Industrials,Specialty Business Services,8416
+2525,Consumer Defensive,Education & Training Services,8417
+2526,Consumer Cyclical,Auto Parts,8418
+2527,Industrials,Specialty Business Services,8419
+2528,Technology,Software—Infrastructure,8420
+2529,Industrials,Engineering & Construction,8422
+2530,Industrials,Engineering & Construction,8423
+2531,Industrials,Rental & Leasing Services,8425
+2532,Technology,Communication Equipment,8427
+2533,Consumer Cyclical,Restaurants,8428
+2534,Communication Services,Advertising Agencies,8429
+2535,Industrials,Trucking,8430
+2536,Industrials,Engineering & Construction,8431
+2537,Consumer Cyclical,Restaurants,8432
+2538,Consumer Defensive,Household & Personal Products,8436
+2539,Healthcare,Medical Care Facilities,8437
+2540,Consumer Cyclical,Apparel Manufacturing,844
+2541,Industrials,Engineering & Construction,8445
+2542,Communication Services,Entertainment,8446
+2543,Consumer Cyclical,Restaurants,8447
+2544,Industrials,Specialty Business Services,8448
+2545,Real Estate,Real Estate—Development,845
+2546,Industrials,Specialty Business Services,8450
+2547,Consumer Defensive,Household & Personal Products,8451
+2548,Industrials,Consulting Services,8455
+2549,Consumer Cyclical,Apparel Manufacturing,8456
+2550,Real Estate,Real Estate—Development,846
+2551,Industrials,Engineering & Construction,8460
+2552,Industrials,Staffing & Employment Services,8462
+2553,Consumer Cyclical,Textile Manufacturing,8471
+2554,Industrials,Waste Management,8472
+2555,Consumer Cyclical,Specialty Retail,8473
+2556,Consumer Cyclical,Restaurants,8475
+2557,Energy,Oil & Gas Refining & Marketing,8479
+2558,Consumer Cyclical,Textile Manufacturing,8480
+2559,Basic Materials,Paper & Paper Products,8481
+2560,Industrials,Integrated Freight & Logistics,8482
+2561,Consumer Cyclical,Personal Services,8483
+2562,Technology,Communication Equipment,8487
+2563,Industrials,Integrated Freight & Logistics,8489
+2564,Technology,Semiconductor Equipment & Materials,8490
+2565,Consumer Defensive,Food Distribution,8491
+2566,Consumer Cyclical,Restaurants,8493
+2567,Consumer Cyclical,Restaurants,8495
+2568,Consumer Defensive,Grocery Stores,8496
+2569,,Type,850
+2570,Communication Services,Advertising Agencies,8500
+2571,Industrials,Consulting Services,8501
+2572,Industrials,Infrastructure Operations,8502
+2573,Industrials,Specialty Industrial Machinery,8506
+2574,Consumer Cyclical,Apparel Manufacturing,8507
+2575,Consumer Defensive,Beverages—Wineries & Distilleries,8509
+2576,Financial Services,Capital Markets,851
+2577,Consumer Cyclical,Restaurants,8510
+2578,Technology,Scientific & Technical Instruments,8511
+2579,Consumer Defensive,Household & Personal Products,8512
+2580,,,8513
+2581,Industrials,Engineering & Construction,8516
+2582,Consumer Cyclical,Restaurants,8519
+2583,Energy,Oil & Gas Refining & Marketing,852
+2584,Industrials,Engineering & Construction,8523
+2585,Financial Services,Credit Services,8525
+2586,Industrials,Building Products & Equipment,8526
+2587,Consumer Cyclical,Restaurants,8527
+2588,Industrials,Engineering & Construction,8532
+2589,Industrials,Security & Protection Services,8535
+2590,Consumer Cyclical,Specialty Retail,8536
+2591,Consumer Cyclical,Luxury Goods,8537
+2592,Technology,Electronics & Computer Distribution,854
+2593,Consumer Cyclical,Leisure,8545
+2594,Consumer Cyclical,"Furnishings, Fixtures & Appliances",8547
+2595,Healthcare,Drug Manufacturers—Specialty & Generic,858
+2596,,Type,8581
+2597,,,8582
+2598,,Type,8586
+2599,,,8588
+2600,Real Estate,Real Estate Services,859
+2601,Consumer Cyclical,Auto Manufacturers,860
+2602,Industrials,Engineering & Construction,8601
+2603,Consumer Defensive,Household & Personal Products,8603
+2604,Technology,Information Technology Services,8606
+2605,Consumer Cyclical,Textile Manufacturing,8607
+2606,Consumer Defensive,Packaged Foods,8609
+2607,Technology,Information Technology Services,8611
+2608,Industrials,Rental & Leasing Services,8612
+2609,Technology,Software—Infrastructure,8613
+2610,Industrials,Specialty Industrial Machinery,8617
+2611,Industrials,Engineering & Construction,8619
+2612,Industrials,Conglomerates,862
+2613,Industrials,Airports & Air Services,8620
+2614,Financial Services,Credit Services,8621
+2615,Healthcare,Drug Manufacturers—Specialty & Generic,8622
+2616,Industrials,Electrical Equipment & Parts,8623
+2617,Communication Services,Advertising Agencies,8627
+2618,Communication Services,Advertising Agencies,863
+2619,Energy,Oil & Gas Refining & Marketing,8631
+2620,Technology,Software—Application,8635
+2621,Real Estate,Real Estate Services,864
+2622,Technology,Information Technology Services,8645
+2623,Industrials,Building Products & Equipment,8646
+2624,Real Estate,Real Estate—Development,865
+2625,Financial Services,Asset Management,8657
+2626,Consumer Cyclical,Packaging & Containers,8659
+2627,Energy,Thermal Coal,866
+2628,Consumer Cyclical,Travel Services,8668
+2629,Consumer Cyclical,Leisure,869
+2630,Industrials,Engineering & Construction,871
+2631,Consumer Cyclical,Auto Parts,872
+2632,Real Estate,Real Estate Services,873
+2633,Consumer Defensive,Farm Products,875
+2634,Healthcare,Medical Instruments & Supplies,876
+2635,Technology,Information Technology Services,885
+2636,Consumer Defensive,Beverages—Wineries & Distilleries,886
+2637,Consumer Cyclical,Luxury Goods,887
+2638,Communication Services,Advertising Agencies,888
+2639,Consumer Cyclical,Apparel Retail,891
+2640,Basic Materials,Steel,893
+2641,Technology,Electronic Components,894
+2642,Healthcare,Drug Manufacturers—Specialty & Generic,897
+2643,Financial Services,Credit Services,899
+2644,,Type,9
+2645,Financial Services,Asset Management,901
+2646,,,9011
+2647,,,9031
+2648,Consumer Defensive,Farm Products,904
+2649,,,9047
+2650,Financial Services,Asset Management,905
+2651,,,9067
+2652,Healthcare,Medical Instruments & Supplies,907
+2653,,,9072
+2654,,,9078
+2655,Industrials,Marine Shipping,908
+2656,,,9081
+2657,,,9088
+2658,Technology,Software—Application,909
+2659,,,9091
+2660,,Type,9096
+2661,,Type,91
+2662,Real Estate,Real Estate—Diversified,910
+2663,Healthcare,Drug Manufacturers—Specialty & Generic,911
+2664,Financial Services,Asset Management,913
+2665,Consumer Cyclical,Specialty Retail,915
+2666,,,9173
+2667,Consumer Cyclical,Apparel Manufacturing,918
+2668,,,9181
+2669,,,9186
+2670,,,9187
+2671,Consumer Cyclical,Personal Services,919
+2672,,,9191
+2673,,,92
+2674,Consumer Cyclical,Personal Services,922
+2675,Industrials,Waste Management,923
+2676,Industrials,Engineering & Construction,924
+2677,Industrials,Conglomerates,925
+2678,Consumer Defensive,Packaged Foods,926
+2679,Healthcare,Diagnostics & Research,928
+2680,Industrials,Metal Fabrication,929
+2681,,,93
+2682,Energy,Oil & Gas Refining & Marketing,931
+2683,Consumer Defensive,Packaged Foods,932
+2684,Industrials,Rental & Leasing Services,936
+2685,Real Estate,Real Estate Services,938
+2686,,,94
+2687,Consumer Defensive,Household & Personal Products,943
+2688,Technology,Communication Equipment,948
+2689,Financial Services,Capital Markets,952
+2690,Communication Services,Entertainment,953
+2691,Consumer Cyclical,Gambling,959
+2692,Technology,Software—Application,9600
+2693,Real Estate,Real Estate Services,9608
+2694,Consumer Defensive,Education & Training Services,9616
+2695,Consumer Cyclical,Internet Retail,9618
+2696,Consumer Defensive,Beverages—Non-Alcoholic,9633
+2697,Real Estate,Real Estate Services,9666
+2698,Financial Services,Banks—Regional,9668
+2699,Financial Services,Banks—Regional,9677
+2700,Healthcare,Biotechnology,9688
+2701,Consumer Defensive,Confectioners,969
+2702,Technology,Information Technology Services,9698
+2703,Consumer Cyclical,Auto & Truck Dealerships,970
+2704,Consumer Defensive,Grocery Stores,974
+2705,Basic Materials,Coking Coal,975
+2706,Industrials,Metal Fabrication,976
+2707,Industrials,Waste Management,979
+2708,Consumer Cyclical,Department Stores,980
+2709,,,9804
+2710,,,9806
+2711,,,9807
+2712,,,9809
+2713,Technology,Semiconductors,981
+2714,,,9812
+2715,Consumer Cyclical,Lodging,982
+2716,,,9820
+2717,,,9826
+2718,Real Estate,Real Estate—Development,983
+2719,,,9834
+2720,,,9836
+2721,,,9845
+2722,Basic Materials,Coking Coal,985
+2723,Consumer Cyclical,Luxury Goods,986
+2724,Financial Services,Capital Markets,988
+2725,Real Estate,Real Estate—Development,989
+2726,Basic Materials,Steel,990
+2727,Industrials,Engineering & Construction,9900
+2728,Consumer Defensive,Education & Training Services,9901
+2729,Healthcare,Medical Care Facilities,9906
+2730,Utilities,Utilities—Regulated Gas,9908
+2731,Technology,Software—Application,9911
+2732,Industrials,Engineering & Construction,9913
+2733,Real Estate,Real Estate Services,9916
+2734,Communication Services,Advertising Agencies,9919
+2735,Consumer Cyclical,Restaurants,9922
+2736,Technology,Software—Infrastructure,9923
+2737,Healthcare,Biotechnology,9926
+2738,Industrials,Engineering & Construction,9929
+2739,Financial Services,Capital Markets,993
+2740,Basic Materials,Chemicals,9933
+2741,Basic Materials,Specialty Chemicals,9936
+2742,Industrials,Building Products & Equipment,9938
+2743,Healthcare,Biotechnology,9939
+2744,Industrials,Engineering & Construction,994
+2745,Communication Services,Entertainment,9958
+2746,Real Estate,Real Estate—Development,996
+2747,,,9963
+2748,Healthcare,Biotechnology,9966
+2749,Real Estate,Real Estate—Development,9968
+2750,Healthcare,Biotechnology,9969
+2751,Technology,Electronics & Computer Distribution,997
+2752,Consumer Defensive,Packaged Foods,9977
+2753,Real Estate,Real Estate Services,9978
+2754,Real Estate,Real Estate Services,9979
+2755,Real Estate,Real Estate Services,9983
+2756,Consumer Defensive,Education & Training Services,9986
+2757,Consumer Cyclical,Internet Retail,9988
+2758,Healthcare,Drug Manufacturers—General,9989
+2759,Consumer Cyclical,Apparel Retail,999
+2760,Communication Services,Electronic Gaming & Multimedia,9990
+2761,Consumer Cyclical,Internet Retail,9991
+2762,Consumer Cyclical,Leisure,9992
+2763,Real Estate,Real Estate—Development,9993
+2764,Healthcare,Biotechnology,9995
+2765,Healthcare,Medical Devices,9996
+2766,Healthcare,Medical Instruments & Supplies,9997
+2767,Industrials,Engineering & Construction,9998
+2768,Communication Services,Internet Content & Information,9999
+2769,Healthcare,Diagnostics & Research,3347
+2770,,,4498
+2771,Healthcare,Diagnostics & Research,6127
+2772,Healthcare,Biotechnology,6600
